@@ -1,0 +1,1001 @@
+product_id,model_suffix,division,selling_price,sales_qty,production_qty,material_rate,customer_name,customer_email,customer_country
+1.0,Pastry - Apple Muffins - Mini,TV,368.92,707,5/26/2022,0.57,Geri Sheppard,gsheppard0@aboutads.info,Ukraine
+,,TV,7.95,495,7/20/2022,0.53,Hanson Vowells,hvowells1@printfriendly.com,Azerbaijan
+3.0,Capers - Ox Eye Daisy,MNT,430.14,776,10/28/2022,0.51,Ernesta Neylon,eneylon2@army.mil,Portugal
+,Sobe - Cranberry Grapefruit,TV,694.57,91,8/20/2022,0.62,Celle Mariet,cmariet3@nps.gov,Ukraine
+5.0,Peas Snow,Caraud,180.83,268,6/9/2022,0.51,Pearl Whelband,,Poland
+,Black Currants,Caraud,214.15,280,1/19/2022,0.41,Pauline Silly,psilly5@usgs.gov,Pakistan
+7.0,Alize Red Passion,Projector,601.62,367,7/30/2022,0.31,Jules Oxbury,joxbury6@usatoday.com,China
+8.0,"Cheese - Havarti, Salsa",Projector,822.88,958,5/20/2022,0.59,Brandon Crocken,bcrocken7@sciencedirect.com,China
+,Container - Clear 16 Oz,MNT,73.6,150,9/7/2022,0.48,Chrissy De Bischof,cde8@g.co,Indonesia
+,"Turnip - White, Organic",MNT,524.32,345,1/12/2022,0.53,Mandi Joel,mjoel9@earthlink.net,United States
+11.0,Creme De Banane - Marie,Cooking,30.97,259,11/24/2022,0.4,Guendolen Goundry,ggoundrya@canalblog.com,China
+12.0,Tart - Pecan Butter Squares,TV,337.15,462,12/12/2022,0.7,Barnett Pauler,bpaulerb@fc2.com,Czech Republic
+,Cream Of Tartar,Caraud,464.62,916,7/10/2022,0.28,Carlyn Pollitt,cpollittc@yolasite.com,Vietnam
+14.0,Cabbage Roll,TV,118.81,950,12/8/2022,0.89,Dillon Handling,,Poland
+,Squid - U - 10 Thailand,MNT,979.47,612,7/4/2022,0.76,Nerta Mc Gee,nmce@cnet.com,Japan
+,"Nestea - Ice Tea, Diet",Projector,272.77,913,12/4/2022,0.48,Hunter Brenston,hbrenstonf@miitbeian.gov.cn,Chile
+17.0,Devonshire Cream,Projector,66.31,238,4/30/2022,0.66,Kathlin Whiskin,kwhisking@sciencedirect.com,China
+18.0,Turnip - White,MNT,919.8,251,3/6/2022,0.72,Rodrique Gritsaev,rgritsaevh@si.edu,Indonesia
+19.0,"Nut - Pecan, Halves",Caraud,655.08,970,12/26/2022,0.42,Annette Sandry,asandryi@si.edu,Portugal
+20.0,Tea - Decaf Lipton,Cooking,662.62,832,6/18/2022,0.62,Alidia Aguirrezabal,aaguirrezabalj@xing.com,Indonesia
+,Trueblue - Blueberry,TV,732.04,308,6/16/2022,0.89,Hastings Aldcorn,,Ukraine
+22.0,"Sauce - Apple, Unsweetened",MNT,248.16,214,1/11/2022,0.65,Edita Fills,,China
+23.0,Soup - Campbells,Projector,367.25,489,1/26/2022,0.4,Tiebout Orring,torringm@stanford.edu,Ukraine
+24.0,Energy Drink - Franks Pineapple,TV,723.91,260,12/23/2022,0.41,Brooke Osorio,,Brazil
+,Bread - French Stick,MNT,589.17,690,6/4/2022,0.4,Ferguson Croix,fcroixo@usgs.gov,Philippines
+26.0,Water - Evian 355 Ml,TV,995.07,265,9/7/2022,0.21,Jordain Kiln,jkilnp@cnn.com,China
+27.0,Pepper - Scotch Bonnet,Cooking,908.24,618,12/28/2022,0.49,Inga Holsall,iholsallq@cdc.gov,France
+28.0,"Arctic Char - Fresh, Whole",TV,177.2,120,5/21/2022,0.44,Trent Elsom,telsomr@bing.com,Yemen
+,Oil - Avocado,MNT,384.59,902,11/1/2022,0.31,Else Jirka,ejirkas@sfgate.com,Portugal
+30.0,Mangoes,Cooking,491.82,919,4/24/2022,0.27,Lou Tivers,ltiverst@mozilla.org,China
+,Kiwi,MNT,278.07,684,12/5/2022,0.62,Leona Dhennin,,Belarus
+32.0,Tomato - Green,Cooking,838.78,404,7/25/2022,0.87,Darla Preskett,dpreskettv@wunderground.com,Russia
+,"Oil - Olive, Extra Virgin",MNT,531.75,582,9/14/2022,0.67,Jacquenette MacRedmond,jmacredmondw@ow.ly,Portugal
+34.0,Sage - Rubbed,TV,767.45,249,8/13/2022,0.67,Barbabas Braams,bbraamsx@imdb.com,Indonesia
+,Rice Wine - Aji Mirin,TV,192.63,499,10/12/2022,0.79,Des Gillease,dgilleasey@who.int,Indonesia
+,Nori Sea Weed,Caraud,828.31,892,12/9/2022,0.76,Glory Foldes,gfoldesz@ovh.net,Indonesia
+37.0,"Wine - Red, Mouton Cadet",Projector,240.34,891,7/18/2022,0.83,Wood Grewar,wgrewar10@diigo.com,Poland
+38.0,"Pasta - Linguini, Dry",MNT,950.71,885,10/23/2022,0.71,Genevieve Lovemore,glovemore11@state.tx.us,Ireland
+,Sausage - Breakfast,MNT,939.8,32,8/13/2022,0.31,Tristan Shelford,tshelford12@deliciousdays.com,China
+40.0,Stainless Steel Cleaner Vision,Caraud,351.5,131,11/27/2022,0.44,Lionel Ellgood,lellgood13@soup.io,China
+,Wine - Pinot Noir Pond Haddock,Projector,530.0,641,10/25/2022,0.2,Marga Bohlin,mbohlin14@bluehost.com,Russia
+42.0,Ecolab - Medallion,Projector,900.55,160,11/21/2022,0.6,Mala Neathway,mneathway15@livejournal.com,China
+,,TV,701.34,573,11/29/2022,0.7,Riane Ridpath,rridpath16@google.cn,Chile
+,Banana Turning,TV,778.23,708,1/15/2022,0.51,Marni Housby,mhousby17@seattletimes.com,Kyrgyzstan
+,Latex Rubber Gloves Size 9,TV,420.66,698,5/27/2022,0.27,May Silverstone,msilverstone18@hp.com,China
+46.0,Ice Cream Bar - Hageen Daz To,Caraud,870.98,110,3/25/2022,0.86,Carlee Romaines,cromaines19@ifeng.com,South Africa
+47.0,Curry Powder Madras,MNT,475.85,921,4/13/2022,0.74,Artemis Campe,acampe1a@webeden.co.uk,Brazil
+,Radish,MNT,684.81,194,12/2/2022,0.7,Bondie Dale,bdale1b@comsenz.com,Guinea
+49.0,Sugar - Splenda Sweetener,TV,493.36,181,4/21/2022,0.63,Ailyn Nissle,anissle1c@wikispaces.com,Czech Republic
+50.0,"Liqueur Banana, Ramazzotti",Projector,311.75,973,12/7/2022,0.43,Lorri Claxson,lclaxson1d@freewebs.com,Poland
+51.0,"Sugar - Brown, Individual",Cooking,240.27,35,8/5/2022,0.58,Julee Baverstock,jbaverstock1e@wix.com,Indonesia
+,,Projector,627.65,258,6/10/2022,0.33,Ola Blader,oblader1f@soundcloud.com,Indonesia
+,Bread - Crusty Italian Poly,TV,989.15,811,4/17/2022,0.87,Gerta Paterno,,Czech Republic
+54.0,Green Tea Refresher,Projector,32.15,724,9/3/2022,0.45,Nina Reuble,nreuble1h@imgur.com,Iran
+55.0,"Red Snapper - Fillet, Skin On",Caraud,463.22,471,12/10/2022,0.84,Kattie Backhurst,kbackhurst1i@studiopress.com,Croatia
+,"Mushroom - Shitake, Dry",TV,74.38,535,9/22/2022,0.86,Tiffany Metzel,tmetzel1j@alibaba.com,Indonesia
+57.0,Veal - Bones,Projector,985.08,346,12/13/2022,0.72,Sylvia Tailby,stailby1k@w3.org,Sweden
+58.0,Fudge - Chocolate Fudge,TV,847.77,281,11/18/2022,0.53,Denys Beeden,,China
+59.0,Coffee Caramel Biscotti,MNT,508.28,120,3/25/2022,0.75,Kimberly Mordey,kmordey1m@walmart.com,China
+60.0,Lettuce - Lolla Rosa,Caraud,156.3,796,8/4/2022,0.71,Nichole Poacher,npoacher1n@elegantthemes.com,Colombia
+,Bagel - Everything Presliced,Cooking,590.81,112,3/10/2022,0.66,Rowe Annwyl,rannwyl1o@house.gov,China
+,Wine - Vovray Sec Domaine Huet,MNT,227.47,541,6/22/2022,0.43,Mia Magnus,mmagnus1p@mozilla.com,China
+63.0,Garlic - Elephant,TV,827.78,256,3/15/2022,0.22,Gerhardine Lammie,glammie1q@miibeian.gov.cn,Sweden
+,"Rum - Spiced, Captain Morgan",Cooking,355.68,484,8/18/2022,0.24,Livvie Fores,lfores1r@google.de,France
+,Muffin - Bran Ind Wrpd,Cooking,304.52,109,10/15/2022,0.77,Daveen Frie,dfrie1s@nature.com,Kyrgyzstan
+66.0,"Beans - Black Bean, Canned",TV,357.99,939,2/8/2022,0.45,Arni Stilling,astilling1t@blogs.com,Japan
+,Beer - Blue,Cooking,962.32,436,2/2/2022,0.55,Brigida Zoren,bzoren1u@alibaba.com,Portugal
+68.0,Coffee - Dark Roast,Projector,569.21,222,3/27/2022,0.21,Prudence Crichten,pcrichten1v@odnoklassniki.ru,China
+69.0,Boogies,Caraud,941.19,56,6/11/2022,0.7,Maynard Highton,mhighton1w@opera.com,Philippines
+70.0,Lettuce - Belgian Endive,MNT,698.34,579,4/11/2022,0.32,Germain Benaine,gbenaine1x@cbslocal.com,Brazil
+,"Wine - Red, Pelee Island Merlot",Caraud,693.78,94,6/23/2022,0.55,Hope Enterlein,henterlein1y@indiegogo.com,Argentina
+,,TV,610.19,444,3/27/2022,0.22,Verna Kinman,,China
+73.0,Longos - Lasagna Beef,Cooking,783.87,718,8/7/2022,0.61,Monica Lawrey,mlawrey20@xrea.com,Bhutan
+74.0,"Bread - White, Sliced",MNT,165.13,659,8/5/2022,0.59,Maitilde Irlam,mirlam21@paypal.com,United States
+75.0,Parsley - Dried,MNT,330.71,260,5/28/2022,0.75,Annamarie Frosch,afrosch22@mediafire.com,France
+76.0,Cheese - Gouda Smoked,Caraud,284.68,156,4/28/2022,0.26,Roseanne D'Onisi,rdonisi23@prnewswire.com,Portugal
+77.0,Veal - Liver,Cooking,689.37,694,5/13/2022,0.54,Elvis Klimke,eklimke24@mashable.com,Russia
+78.0,Cookies Cereal Nut,Cooking,984.83,550,12/24/2022,0.8,Merle McRavey,mmcravey25@barnesandnoble.com,Indonesia
+79.0,Island Oasis - Ice Cream Mix,Projector,379.93,667,11/7/2022,0.38,Kalila Doblin,kdoblin26@nytimes.com,China
+80.0,Pie Shell - 5,Projector,886.65,986,3/6/2022,0.5,Issi Airth,iairth27@barnesandnoble.com,Brazil
+,Wine - Riesling Alsace Ac 2001,Caraud,297.77,808,10/7/2022,0.58,Josefa Schimke,jschimke28@berkeley.edu,Colombia
+82.0,"Wine - Harrow Estates, Vidal",Cooking,691.91,929,9/30/2022,0.86,Inga Harhoff,iharhoff29@mlb.com,Poland
+83.0,Wine - Chianti Classico Riserva,Cooking,818.25,155,8/5/2022,0.21,Bartie Lain,blain2a@samsung.com,Norway
+84.0,Shrimp - 100 / 200 Cold Water,Cooking,32.75,280,10/4/2022,0.63,Deena Kleinber,dkleinber2b@umich.edu,Argentina
+85.0,Jameson - Irish Whiskey,Cooking,479.54,677,10/10/2022,0.22,Shelba Gurg,sgurg2c@php.net,China
+86.0,Cut Wakame - Hanawakaba,Caraud,925.85,303,1/16/2022,0.63,Corie Zamudio,czamudio2d@pagesperso-orange.fr,Thailand
+87.0,Shopper Bag - S - 4,Cooking,259.28,954,8/31/2022,0.69,Lyndy Temlett,,Poland
+,"Loaf Pan - 2 Lb, Foil",MNT,624.32,431,4/19/2022,0.85,Emelia Agnew,eagnew2f@hp.com,China
+89.0,Coffee - French Vanilla Frothy,Cooking,977.23,444,12/4/2022,0.43,Quentin Tejero,,Portugal
+90.0,Veal - Slab Bacon,Caraud,474.6,194,4/4/2022,0.61,Willie Fittes,wfittes2h@state.tx.us,Ukraine
+,Lime Cordial - Roses,MNT,218.14,575,8/26/2022,0.24,Edgar Instone,,Indonesia
+92.0,"Mushroom - Shitake, Fresh",TV,440.16,530,10/19/2022,0.81,Virginie Ciccottini,,China
+93.0,Veal - Knuckle,MNT,2.98,636,10/29/2022,0.42,Taffy Kemer,tkemer2k@nytimes.com,Russia
+94.0,Cheese - Cottage Cheese,TV,482.94,686,6/3/2022,0.85,Fitz Mattinson,fmattinson2l@fema.gov,Mexico
+95.0,Chocolate - Dark Callets,Caraud,443.95,810,12/26/2022,0.56,Laird Blondin,lblondin2m@indiatimes.com,Russia
+96.0,Lettuce - Iceberg,TV,312.81,499,8/25/2022,0.25,Krissie Hawkeridge,khawkeridge2n@printfriendly.com,Italy
+,Foie Gras,Projector,194.28,732,7/9/2022,0.31,Janeva Urrey,jurrey2o@mac.com,Russia
+,"Soup - Beef Conomme, Dry",Cooking,442.02,706,4/22/2022,0.65,Britni Taffarello,btaffarello2p@dion.ne.jp,China
+99.0,Rice - Jasmine Sented,Caraud,980.45,897,1/28/2022,0.82,Vikki Newitt,vnewitt2q@rediff.com,Albania
+,Sloe Gin - Mcguinness,TV,681.89,427,3/26/2022,0.85,Constance Millam,cmillam2r@1688.com,Brazil
+,,TV,236.51,285,8/3/2022,0.45,Wake Brookson,wbrookson2s@dailymotion.com,Indonesia
+102.0,Nantucket - Carrot Orange,Cooking,152.69,479,5/5/2022,0.61,Chelsae D' Angelo,cd2t@acquirethisname.com,Iran
+103.0,Flour - Cake,Cooking,579.03,310,12/12/2022,0.69,Sarita Lismore,slismore2u@wordpress.org,Indonesia
+104.0,Pepper - Sorrano,Caraud,897.81,920,1/7/2022,0.71,Kendre Farndon,kfarndon2v@quantcast.com,China
+105.0,Sprouts - Peppercress,Cooking,669.04,426,11/24/2022,0.87,Ynez Gurko,ygurko2w@mit.edu,Philippines
+106.0,Pastry - Banana Muffin - Mini,Caraud,791.66,700,11/8/2022,0.33,Rodolph Dennistoun,,Portugal
+107.0,"Cheese - Brie, Cups 125g",Caraud,612.93,902,2/6/2022,0.87,Dore Kilfeather,dkilfeather2y@skype.com,Argentina
+108.0,Truffle Shells - White Chocolate,Caraud,788.87,353,4/13/2022,0.87,Ede Cleary,ecleary2z@moonfruit.com,Colombia
+109.0,Yogurt - Assorted Pack,Cooking,634.09,170,10/29/2022,0.78,Kimberley Leblanc,kleblanc30@house.gov,Chile
+110.0,Tea - Apple Green Tea,Caraud,264.63,347,2/2/2022,0.43,Nolie Jantel,njantel31@arstechnica.com,Belarus
+111.0,Blueberries - Frozen,TV,122.13,519,9/1/2022,0.88,Tremaine Brodeau,tbrodeau32@so-net.ne.jp,Philippines
+112.0,Bread - 10 Grain Parisian,Cooking,627.26,629,4/27/2022,0.49,Stanfield Scorthorne,sscorthorne33@seattletimes.com,Indonesia
+,Parsley Italian - Fresh,TV,974.22,683,1/14/2022,0.67,Templeton Marchington,tmarchington34@creativecommons.org,Kenya
+114.0,Wine - Conde De Valdemar,Projector,275.88,483,6/17/2022,0.49,Caty Imlin,cimlin35@stumbleupon.com,China
+115.0,Snapple Raspberry Tea,Cooking,542.2,751,10/19/2022,0.66,Cymbre Newlands,cnewlands36@bing.com,France
+,,Projector,189.98,407,9/4/2022,0.68,Patty Whittingham,pwhittingham37@ebay.co.uk,Indonesia
+,Sunflower Seed Raw,Projector,439.79,476,3/19/2022,0.23,Madeleine Cullip,mcullip38@answers.com,Ukraine
+,Wine - Maipo Valle Cabernet,TV,744.67,561,12/7/2022,0.5,Dar Rubes,drubes39@sbwire.com,Zimbabwe
+119.0,Cheese - Bocconcini,TV,298.38,499,8/26/2022,0.72,Emma Newling,enewling3a@reference.com,Indonesia
+120.0,Turnip - Wax,MNT,500.17,900,2/16/2022,0.38,Kalila Sigfrid,,Argentina
+121.0,Flavouring - Orange,Caraud,879.1,88,8/14/2022,0.63,Izzy Sendley,isendley3c@furl.net,Philippines
+122.0,Cape Capensis - Fillet,Caraud,803.91,949,11/25/2022,0.69,Duke Storek,dstorek3d@sciencedirect.com,Brazil
+123.0,"Sauce - Black Current, Dry Mix",TV,876.32,73,3/17/2022,0.72,Justina Cardinal,,Egypt
+124.0,Sausage - Liver,MNT,557.67,36,10/13/2022,0.4,Harrison Haswell,,Ukraine
+125.0,Energy Drink Red Bull,Projector,377.47,466,12/22/2022,0.23,Tremayne Brunstan,tbrunstan3g@springer.com,South Africa
+126.0,Vinegar - White,Cooking,352.64,810,6/4/2022,0.59,Gerik Anthon,ganthon3h@nsw.gov.au,Indonesia
+,Beer - Creemore,TV,58.0,396,9/6/2022,0.23,Henka Grieg,hgrieg3i@thetimes.co.uk,Guatemala
+128.0,Trout Rainbow Whole,TV,854.58,272,5/20/2022,0.23,Piotr Astlet,pastlet3j@soundcloud.com,Indonesia
+,Coffee - Decafenated,Caraud,715.6,861,1/17/2022,0.57,Harrie Iveans,hiveans3k@pcworld.com,China
+130.0,Shiratamako - Rice Flour,Cooking,680.27,10,6/4/2022,0.57,Zacharia Butson,zbutson3l@ed.gov,China
+131.0,Strawberries - California,TV,551.43,188,5/14/2022,0.22,Averil Keers,akeers3m@wunderground.com,Czech Republic
+132.0,Mushroom - Portebello,Cooking,850.31,493,1/12/2022,0.22,Evelyn Moscone,emoscone3n@samsung.com,Ethiopia
+133.0,,Projector,364.22,392,5/16/2022,0.64,Moreen Cammoile,mcammoile3o@skyrock.com,Sweden
+134.0,Sauce - Vodka Blush,Projector,177.33,869,8/26/2022,0.55,Annamaria Snelle,asnelle3p@nyu.edu,China
+,Caviar - Salmon,MNT,304.23,593,2/3/2022,0.25,Andrea Gilliam,agilliam3q@earthlink.net,Lithuania
+136.0,"Wine - White, Pelee Island",MNT,963.69,595,6/25/2022,0.28,Sharron Ferreira,sferreira3r@acquirethisname.com,Russia
+137.0,"Soup - Knorr, Classic Can. Chili",TV,947.09,664,8/13/2022,0.42,Zedekiah Batsford,zbatsford3s@soundcloud.com,China
+138.0,Anisette - Mcguiness,Cooking,719.85,29,4/5/2022,0.23,Demetre Preble,,Portugal
+,"Mushroom - Trumpet, Dry",Projector,505.6,204,8/9/2022,0.29,Padget Center,pcenter3u@home.pl,Greece
+140.0,Vinegar - White,TV,607.19,785,2/3/2022,0.81,Suzy Crate,scrate3v@wiley.com,Philippines
+141.0,Bread - Malt,TV,91.66,824,5/17/2022,0.44,Brennen Beardow,bbeardow3w@stanford.edu,New Zealand
+,"Seedlings - Mix, Organic",Caraud,27.09,170,8/10/2022,0.49,Ninette Bilam,nbilam3x@google.de,China
+143.0,Bread - Pumpernickel,Cooking,84.96,416,8/25/2022,0.45,Aguste Landor,alandor3y@amazon.com,Brazil
+144.0,Beans - Green,Caraud,545.25,298,6/19/2022,0.79,Tori Giannazzo,tgiannazzo3z@fastcompany.com,Norway
+145.0,V8 Pet,Projector,58.8,952,1/14/2022,0.9,Levin Shyre,lshyre40@bing.com,France
+,Dikon,Projector,414.14,698,4/2/2022,0.77,Nicolai Gonsalvez,ngonsalvez41@java.com,Cameroon
+,"Coconut - Shredded, Unsweet",MNT,264.72,784,11/26/2022,0.48,Lorne Pearlman,lpearlman42@canalblog.com,Cambodia
+,"Bread - White, Unsliced",Cooking,68.16,960,10/3/2022,0.55,Shelly Stuckow,sstuckow43@home.pl,Philippines
+149.0,Wine - Ice Wine,Caraud,749.8,82,4/24/2022,0.53,Hettie Manoelli,hmanoelli44@wikia.com,Russia
+150.0,Cleaner - Comet,MNT,237.14,465,12/8/2022,0.43,Asher Twyford,atwyford45@prlog.org,Indonesia
+151.0,Lid - 0090 Clear,Caraud,799.48,711,11/27/2022,0.53,Marget Rawlence,mrawlence46@flavors.me,China
+152.0,Artichoke - Fresh,Caraud,42.07,80,11/18/2022,0.6,Osbourn Ruberry,oruberry47@google.com,Ukraine
+153.0,Hot Chocolate - Individual,TV,529.89,618,9/2/2022,0.45,Cathi Benda,cbenda48@stanford.edu,Brazil
+154.0,Table Cloth 54x54 Colour,Projector,962.88,103,1/7/2022,0.79,Giorgi Decaze,gdecaze49@ustream.tv,Palestinian Territory
+155.0,"Nut - Pecan, Halves",Cooking,428.55,896,2/28/2022,0.85,Keslie Taylder,ktaylder4a@icio.us,Czech Republic
+,"Pasta - Cannelloni, Sheets, Fresh",Projector,895.1,890,7/21/2022,0.26,Timmie Mayhow,tmayhow4b@ox.ac.uk,Thailand
+157.0,Grand Marnier,Cooking,575.2,892,5/13/2022,0.21,Murielle Gambrell,mgambrell4c@ebay.com,Russia
+158.0,Persimmons,Caraud,692.92,566,3/2/2022,0.3,Fredericka Torfin,ftorfin4d@usatoday.com,Syria
+,Oil - Macadamia,Cooking,70.25,952,2/27/2022,0.55,Irena Jerzykiewicz,ijerzykiewicz4e@usda.gov,Colombia
+160.0,Compound - Passion Fruit,TV,662.65,933,2/12/2022,0.27,Claudia Reardon,creardon4f@google.cn,France
+161.0,Wine - White Cab Sauv.on,Cooking,553.99,10,5/8/2022,0.29,Julissa Waddie,jwaddie4g@homestead.com,China
+162.0,"Salsify, Organic",Projector,500.72,373,12/8/2022,0.51,Gaston Cratere,gcratere4h@goo.gl,Japan
+163.0,Cabbage - Nappa,MNT,979.22,146,8/20/2022,0.82,Dorisa Kealy,dkealy4i@list-manage.com,Canada
+,Dc - Sakura Fu,Cooking,847.0,729,12/17/2022,0.35,Ramsey Ledley,rledley4j@indiatimes.com,Russia
+,Beans - Green,TV,234.43,153,7/25/2022,0.52,Chandler Rudman,crudman4k@senate.gov,Serbia
+,"Coconut - Shredded, Unsweet",Cooking,586.44,766,6/23/2022,0.41,Horatius Capron,hcapron4l@cargocollective.com,Philippines
+,Bagel - Everything,MNT,105.06,972,7/26/2022,0.24,Toiboid Stormouth,,China
+,Marjoram - Fresh,Caraud,664.29,811,12/22/2022,0.81,Robby Satyford,rsatyford4n@pcworld.com,Malaysia
+169.0,"Capon - Breast, Wing On",Projector,309.44,662,4/29/2022,0.23,Fielding Barringer,fbarringer4o@reverbnation.com,Belarus
+170.0,"Lentils - Red, Dry",MNT,39.56,718,2/24/2022,0.69,Jamal Drowsfield,jdrowsfield4p@bluehost.com,Cape Verde
+,Pike - Frozen Fillet,Projector,394.04,545,10/12/2022,0.48,Regan Heys,rheys4q@ftc.gov,China
+,Muffin - Zero Transfat,Cooking,169.84,865,1/9/2022,0.38,Lyn Crichton,lcrichton4r@pbs.org,Norway
+,Nutmeg - Ground,Projector,880.65,685,5/29/2022,0.5,Lesya Hughes,lhughes4s@cafepress.com,China
+,Trout - Smoked,TV,304.81,231,5/3/2022,0.32,Bebe Oldfield-Cherry,boldfieldcherry4t@statcounter.com,Russia
+175.0,Soup - Campbells Tomato Ravioli,Cooking,135.0,421,10/21/2022,0.56,Ambur Kamiyama,akamiyama4u@ox.ac.uk,Netherlands
+,,TV,460.39,773,2/1/2022,0.79,Letizia ducarme,,Sweden
+,Persimmons,MNT,383.34,929,3/30/2022,0.59,Pet Cromar,pcromar4w@nytimes.com,Macedonia
+,Sauce - Oyster,Projector,562.61,679,11/25/2022,0.78,Chevy Cummungs,,China
+,Cheese - Comtomme,Projector,630.02,59,6/24/2022,0.63,Kimberli McPhee,kmcphee4y@mit.edu,Thailand
+,Bread - Sour Batard,Projector,200.26,69,10/26/2022,0.45,Valene Birbeck,vbirbeck4z@vistaprint.com,Mali
+181.0,Bread - Raisin Walnut Pull,Cooking,648.91,819,10/30/2022,0.79,Bettine Pellitt,bpellitt50@lulu.com,Mexico
+182.0,Cheese - Brick With Onion,MNT,756.76,227,5/10/2022,0.6,Joelle Wherrett,,United States
+,Juice - Prune,Caraud,767.99,673,1/12/2022,0.57,Cornall Babin,,Kazakhstan
+184.0,Pork - Side Ribs,Caraud,516.66,412,12/6/2022,0.36,Mariska Birtchnell,mbirtchnell53@reuters.com,Kyrgyzstan
+185.0,Pasta - Fusili Tri - Coloured,MNT,785.65,947,3/15/2022,0.31,Beck Hackleton,,Indonesia
+186.0,,Cooking,453.73,89,9/11/2022,0.68,Julianne Veart,jveart55@wired.com,China
+187.0,"Soup - Knorr, Ministrone",Caraud,22.95,325,5/11/2022,0.58,Sharona Sibylla,ssibylla56@github.io,Thailand
+,"Crush - Grape, 355 Ml",TV,603.76,423,10/6/2022,0.65,Ardyce Savin,asavin57@diigo.com,Hungary
+189.0,,TV,480.33,679,5/29/2022,0.79,Dita Stollberger,dstollberger58@stanford.edu,Guinea
+190.0,Sambuca - Ramazzotti,Cooking,342.84,789,7/17/2022,0.85,Philomena Hinsche,phinsche59@about.com,China
+,Pork - Smoked Back Bacon,Projector,936.53,162,10/31/2022,0.7,Cornie Douglass,cdouglass5a@gnu.org,Poland
+,Truffle Cups - Red,Cooking,141.43,564,6/23/2022,0.82,Isabelita Crack,,China
+193.0,Pork - Kidney,MNT,76.01,891,4/28/2022,0.28,Latrena Brew,lbrew5c@nydailynews.com,Russia
+194.0,Flour Pastry Super Fine,MNT,906.12,206,2/7/2022,0.58,Justino Selvey,jselvey5d@psu.edu,Indonesia
+,"Mushroom - Chantrelle, Fresh",Cooking,576.08,403,10/18/2022,0.58,Willow Spennock,wspennock5e@clickbank.net,China
+196.0,Bok Choy - Baby,MNT,17.97,395,8/12/2022,0.34,Sara Blowfelde,sblowfelde5f@blogspot.com,Philippines
+197.0,V8 - Berry Blend,TV,196.9,108,12/7/2022,0.83,Mattias Kelberer,mkelberer5g@berkeley.edu,Argentina
+198.0,Soupcontfoam16oz 116con,TV,158.79,56,12/12/2022,0.27,Garth Over,gover5h@blogtalkradio.com,Philippines
+199.0,Muffin Mix - Oatmeal,Caraud,323.68,301,7/15/2022,0.3,Lyndsay Malyan,lmalyan5i@salon.com,Indonesia
+200.0,Lemonade - Pineapple Passion,Cooking,151.16,244,6/9/2022,0.32,Anna Heakey,aheakey5j@wufoo.com,Indonesia
+,Crab Brie In Phyllo,MNT,137.8,807,2/11/2022,0.75,Katharine Norbury,knorbury5k@cnet.com,Indonesia
+202.0,"Tart Shells - Sweet, 2",Caraud,107.49,237,11/14/2022,0.66,Madalena Tschiersch,mtschiersch5l@github.io,Russia
+,"Pepper - Chipotle, Canned",TV,557.02,128,12/22/2022,0.5,Agnella Lipmann,alipmann5m@irs.gov,Thailand
+204.0,Sardines,Cooking,768.15,696,1/12/2022,0.52,Regan Ferrara,rferrara5n@parallels.com,France
+205.0,Beans - Green,Caraud,350.75,709,11/29/2022,0.78,Nadia MacParland,,Croatia
+,Cinnamon - Stick,Cooking,182.24,867,11/10/2022,0.74,Rosalynd Benedit,rbenedit5p@soup.io,Croatia
+,Beef - Diced,MNT,777.86,954,3/18/2022,0.69,Jarid Denziloe,jdenziloe5q@ucoz.com,Mexico
+208.0,Sobe - Lizard Fuel,Cooking,630.27,261,1/22/2022,0.66,Winny Brislawn,wbrislawn5r@bing.com,Russia
+,Salmon - Canned,MNT,929.74,334,4/11/2022,0.6,Ina Cockerham,icockerham5s@fc2.com,Indonesia
+210.0,Green Tea Refresher,Projector,680.8,36,4/6/2022,0.33,Rouvin Hawkey,rhawkey5t@discuz.net,Indonesia
+211.0,Calypso - Lemonade,Projector,465.62,667,2/7/2022,0.87,Ricardo Howton,rhowton5u@fotki.com,Togo
+212.0,Banana - Leaves,Projector,434.1,201,11/16/2022,0.38,Ricki Glenn,rglenn5v@noaa.gov,China
+,"Pasta - Rotini, Colour, Dry",MNT,762.11,193,8/22/2022,0.74,Ailee Mundall,amundall5w@scientificamerican.com,United States
+,Broom - Push,Cooking,92.78,339,4/2/2022,0.78,Jesse Whopples,jwhopples5x@un.org,Philippines
+215.0,"Wine - Red, Pinot Noir, Chateau",Caraud,902.67,154,9/8/2022,0.67,Nataniel Delue,ndelue5y@reddit.com,China
+,Langers - Ruby Red Grapfruit,Caraud,63.33,817,2/9/2022,0.79,Jone Crumly,jcrumly5z@nature.com,Myanmar
+217.0,Lobster - Cooked,Cooking,427.21,180,7/6/2022,0.6,Farlee Koomar,fkoomar60@hp.com,China
+218.0,Currants,Caraud,8.01,623,8/19/2022,0.74,Pammy Schwartz,pschwartz61@newyorker.com,Guatemala
+,Kumquat,Projector,801.65,2,3/16/2022,0.43,Millie Halhead,mhalhead62@bluehost.com,Russia
+220.0,Soup Campbells Mexicali Tortilla,Projector,818.56,639,11/24/2022,0.85,Lewie Gionettitti,lgionettitti63@usa.gov,Philippines
+221.0,"Oil - Truffle, Black",MNT,637.78,676,6/7/2022,0.26,Merle Corona,mcorona64@tripadvisor.com,Philippines
+222.0,,Projector,380.44,924,1/27/2022,0.5,Oren Maasze,omaasze65@themeforest.net,Czech Republic
+,Chocolate - Unsweetened,Caraud,672.49,599,9/25/2022,0.39,Mona Beaufoy,mbeaufoy66@tamu.edu,Czech Republic
+,,Caraud,792.8,492,6/8/2022,0.87,Renaldo Tullot,rtullot67@google.nl,Poland
+,Beer - Heinekin,TV,2.43,531,10/20/2022,0.43,Randi Terris,rterris68@simplemachines.org,Portugal
+,,TV,993.05,188,8/3/2022,0.54,Agace Worstall,aworstall69@google.com.hk,China
+227.0,"Stock - Beef, White",MNT,919.2,340,9/27/2022,0.26,Burgess Grishin,bgrishin6a@nps.gov,China
+228.0,,MNT,674.17,300,9/7/2022,0.68,Marnia Ashbridge,mashbridge6b@parallels.com,Colombia
+229.0,Pineapple - Golden,Cooking,388.79,205,11/21/2022,0.73,Aggy Plesing,aplesing6c@forbes.com,Mexico
+230.0,Rosemary - Dry,MNT,923.94,229,10/6/2022,0.82,Rodolph Dragoe,rdragoe6d@alibaba.com,Czech Republic
+231.0,Glycerine,Projector,732.92,728,2/22/2022,0.2,Auberon Gillitt,agillitt6e@jigsy.com,Philippines
+232.0,"Beans - Fava, Canned",MNT,25.93,337,4/9/2022,0.45,Filippa Stathers,fstathers6f@time.com,Ireland
+233.0,Squid - Breaded,Projector,206.88,138,1/3/2022,0.8,Harvey Popescu,hpopescu6g@uol.com.br,Russia
+,"Lemonade - Black Cherry, 591 Ml",Caraud,938.62,657,8/13/2022,0.31,Arturo Sunnucks,asunnucks6h@kickstarter.com,Russia
+,Mudslide,TV,580.21,481,12/13/2022,0.81,Brody Zanuciolii,,China
+,Beer - Heinekin,MNT,905.62,258,8/12/2022,0.76,Jehanna Heasley,jheasley6j@hao123.com,Greece
+237.0,"Coffee - Colombian, Portioned",MNT,592.41,946,8/1/2022,0.25,Shae Veschambre,sveschambre6k@github.io,Costa Rica
+238.0,Cheese Cloth No 60,Cooking,862.41,293,1/11/2022,0.62,Dan Marconi,dmarconi6l@dailymail.co.uk,Indonesia
+239.0,Cranberries - Dry,Cooking,368.49,683,7/31/2022,0.77,Bendicty Doohan,bdoohan6m@51.la,Morocco
+,"Pepsi - Diet, 355 Ml",MNT,541.26,354,3/14/2022,0.74,Tedmund Wilacot,twilacot6n@wiley.com,China
+241.0,Lotus Root,TV,506.43,684,12/16/2022,0.35,Mahala Richardes,mrichardes6o@google.it,Dominican Republic
+242.0,Hot Chocolate - Individual,Caraud,105.98,679,2/21/2022,0.54,Karlee Addionisio,kaddionisio6p@rambler.ru,Russia
+,Star Fruit,Projector,68.63,322,11/1/2022,0.54,Billy Santer,bsanter6q@oaic.gov.au,China
+,Goat - Leg,Cooking,146.6,698,2/22/2022,0.41,Myrle Beagrie,mbeagrie6r@friendfeed.com,Indonesia
+245.0,Soup - Campbells,Projector,546.25,298,12/16/2022,0.46,Mikael Phillps,mphillps6s@trellian.com,Albania
+246.0,Anchovy Paste - 56 G Tube,Cooking,366.78,940,4/3/2022,0.79,Rosetta Farthing,rfarthing6t@rediff.com,Philippines
+,Cheese - Valancey,Cooking,120.51,302,11/20/2022,0.61,Archie Tuffin,atuffin6u@telegraph.co.uk,United States
+248.0,Muffin Batt - Blueberry Passion,MNT,221.77,278,1/5/2022,0.62,Pall Lillywhite,plillywhite6v@army.mil,Canada
+,,Caraud,636.96,986,1/10/2022,0.66,Clarice Loveredge,cloveredge6w@tmall.com,China
+,"Lemonade - Strawberry, 591 Ml",MNT,744.58,487,4/1/2022,0.59,Curt Meyrick,cmeyrick6x@zimbio.com,China
+251.0,Sprouts - Brussel,Caraud,661.16,95,3/8/2022,0.64,Laryssa Garnett,lgarnett6y@timesonline.co.uk,Afghanistan
+252.0,Jolt Cola,Cooking,167.94,261,6/11/2022,0.58,Aviva Ticic,aticic6z@com.com,China
+253.0,Wild Boar - Tenderloin,TV,983.79,517,1/20/2022,0.71,Darnell Pietruszka,dpietruszka70@alibaba.com,Cuba
+254.0,Pork - Ground,Cooking,481.97,625,12/8/2022,0.73,Beverley Menghi,bmenghi71@people.com.cn,China
+255.0,Kohlrabi,Caraud,652.31,194,7/2/2022,0.66,Leann Storm,lstorm72@tiny.cc,Portugal
+,Vinegar - Cider,Projector,898.05,405,8/5/2022,0.69,Ab Antoniewski,,Poland
+,Chinese Foods - Chicken,MNT,466.08,772,1/11/2022,0.49,Layton Clemmen,lclemmen74@accuweather.com,Greece
+258.0,Banana - Green,TV,819.7,317,5/3/2022,0.32,Ardine Tanswell,atanswell75@bbb.org,United States
+259.0,Broom - Corn,Cooking,986.88,450,4/30/2022,0.5,Zita Stirtle,zstirtle76@ebay.co.uk,Sweden
+,Mushroom - Lg - Cello,Caraud,393.83,392,3/22/2022,0.51,Richard Coffee,rcoffee77@google.cn,France
+261.0,"Chicken - Wings, Tip Off",Cooking,548.73,95,2/7/2022,0.23,Franky Ruprich,fruprich78@ifeng.com,Russia
+,"Split Peas - Yellow, Dry",Projector,791.5,836,8/28/2022,0.56,Mariam Cicullo,mcicullo79@virginia.edu,Indonesia
+,Turnip - White,Projector,577.87,928,9/19/2022,0.37,Eugenie Bateup,ebateup7a@businessweek.com,Kenya
+264.0,Bay Leaf,TV,763.93,16,2/14/2022,0.45,Georgeta Doorly,gdoorly7b@answers.com,Brazil
+265.0,Fiddlehead - Frozen,Caraud,797.91,317,10/16/2022,0.25,Ronnie Laite,rlaite7c@arstechnica.com,Honduras
+266.0,Peas Snow,Caraud,406.83,543,2/8/2022,0.88,Saleem Softley,ssoftley7d@indiatimes.com,Indonesia
+,Mangoes,Cooking,226.48,989,11/20/2022,0.86,Angele Enbury,aenbury7e@last.fm,Chad
+268.0,Bread - Raisin,Projector,225.41,123,12/22/2022,0.86,Fina Hablot,fhablot7f@forbes.com,Japan
+269.0,Sauce - Hollandaise,Projector,780.85,529,4/26/2022,0.39,Averell Garken,agarken7g@hubpages.com,Honduras
+270.0,Mace Ground,TV,706.87,522,3/8/2022,0.44,Menard Jarrell,mjarrell7h@ask.com,Tanzania
+271.0,Soup - Campbells Mushroom,Cooking,178.71,286,7/23/2022,0.51,Stace Dibdall,sdibdall7i@t-online.de,China
+272.0,Versatainer Nc - 8288,Projector,316.92,412,9/27/2022,0.5,Fergus Bysaker,fbysaker7j@oaic.gov.au,Nigeria
+,Pants Custom Dry Clean,Cooking,706.48,749,11/3/2022,0.79,Kit Hanhardt,khanhardt7k@wix.com,Brazil
+274.0,Longos - Chicken Caeser Salad,Cooking,663.37,441,1/10/2022,0.24,Lilah Gaythorpe,lgaythorpe7l@comsenz.com,China
+275.0,Glucose,Projector,828.23,534,12/19/2022,0.64,Shay Wagerfield,swagerfield7m@devhub.com,Myanmar
+276.0,Soup Campbells,TV,338.75,376,7/6/2022,0.69,Johan Emm,,China
+277.0,Mushrooms - Honey,Projector,630.91,765,11/28/2022,0.84,Lelia Jansens,ljansens7o@symantec.com,Philippines
+278.0,Salami - Genova,Caraud,200.47,141,6/29/2022,0.85,Geno Bartczak,gbartczak7p@nbcnews.com,Poland
+279.0,Wine - Merlot Vina Carmen,TV,227.74,696,4/21/2022,0.47,Sarene Sheavills,ssheavills7q@zimbio.com,Sweden
+280.0,Lettuce - Radicchio,TV,535.87,985,4/9/2022,0.72,Dedie Beardsell,dbeardsell7r@chicagotribune.com,Poland
+,Nantucket - Kiwi Berry Cktl.,MNT,907.22,419,10/29/2022,0.46,Tod Sapp,tsapp7s@vimeo.com,Japan
+,Puree - Kiwi,TV,725.17,555,11/20/2022,0.38,Paddie Beilby,pbeilby7t@netscape.com,Zambia
+283.0,Bandage - Flexible Neon,Cooking,682.23,24,3/12/2022,0.29,Pip Acres,pacres7u@google.it,Philippines
+,,TV,837.39,510,2/26/2022,0.87,Dorice Hullins,dhullins7v@gravatar.com,Indonesia
+285.0,Mushroom - Morel Frozen,Projector,21.63,150,8/4/2022,0.76,Bekki McGaughie,bmcgaughie7w@cpanel.net,Peru
+,Beef - Tenderloin Tails,Cooking,298.75,202,5/14/2022,0.53,Garold O'Dunniom,godunniom7x@timesonline.co.uk,Peru
+287.0,Lobster - Cooked,MNT,600.0,615,7/10/2022,0.42,Fidelia Odcroft,fodcroft7y@artisteer.com,Papua New Guinea
+,"Soup - Campbells, Cream Of",Cooking,681.3,454,12/29/2022,0.79,Rikki Kobierra,rkobierra7z@studiopress.com,Macedonia
+,Appetizer - Chicken Satay,MNT,429.66,284,4/22/2022,0.35,Caril Lindwall,clindwall80@techcrunch.com,Brazil
+,Cheese - Swiss Sliced,MNT,616.98,350,10/29/2022,0.65,Terri Prickett,,Brazil
+291.0,"Carrots - Purple, Organic",Caraud,822.4,297,12/12/2022,0.37,Aeriel Dendle,adendle82@booking.com,Vietnam
+292.0,"Olives - Green, Pitted",Caraud,843.43,3,5/21/2022,0.24,Natala Willingam,nwillingam83@google.it,Russia
+293.0,Huck White Towels,TV,824.33,774,4/1/2022,0.87,Stanislaus Stathers,sstathers84@telegraph.co.uk,Philippines
+294.0,Soap - Hand Soap,TV,511.27,898,10/21/2022,0.67,Gale Olligan,golligan85@uol.com.br,United States
+,,TV,242.26,873,8/18/2022,0.33,Neel Issacoff,nissacoff86@springer.com,Russia
+296.0,Sprouts - Bean,Projector,636.5,402,2/12/2022,0.87,Jobey Ascroft,jascroft87@chronoengine.com,Russia
+297.0,Corn Syrup,TV,182.41,240,11/19/2022,0.28,Tybi Loynton,,Indonesia
+298.0,Tea - Earl Grey,Caraud,856.58,430,11/11/2022,0.61,Alleen Mulvany,amulvany89@wired.com,Japan
+,Pork Casing,Cooking,276.44,684,12/10/2022,0.74,Wyatt Richter,wrichter8a@typepad.com,Indonesia
+,Table Cloth 54x72 Colour,TV,660.03,837,11/30/2022,0.72,Marianna Glasscoe,mglasscoe8b@diigo.com,Poland
+,Edible Flower - Mixed,Cooking,746.29,395,5/31/2022,0.47,Renata Ringer,rringer8c@php.net,New Zealand
+302.0,Pepper - Pablano,Projector,531.8,277,6/14/2022,0.64,Patricia Abate,pabate8d@cisco.com,Sweden
+303.0,Rum - Mount Gay Eclipes,MNT,161.43,95,10/30/2022,0.62,Wilbert Fogel,wfogel8e@domainmarket.com,Indonesia
+,Beer - True North Strong Ale,Caraud,939.83,203,9/28/2022,0.64,Kaile Crangle,kcrangle8f@cdc.gov,China
+,Cookies - Englishbay Chochip,TV,544.99,899,10/24/2022,0.78,Tessy Edgars,tedgars8g@github.io,China
+,Oil - Canola,Cooking,130.86,945,8/19/2022,0.85,Jimmie Sybry,jsybry8h@so-net.ne.jp,Portugal
+,Food Colouring - Pink,MNT,942.21,365,5/16/2022,0.76,Dionysus Juliano,djuliano8i@businessweek.com,United States
+308.0,Maple Syrup,TV,827.22,522,11/9/2022,0.71,Hettie Farden,hfarden8j@adobe.com,Brazil
+309.0,Ice Cream Bar - Hagen Daz,Projector,478.7,682,5/11/2022,0.57,Alyda Harraway,aharraway8k@tinyurl.com,Philippines
+310.0,Beer - Original Organic Lager,MNT,812.94,704,1/29/2022,0.78,Burk Alesio,balesio8l@netscape.com,Finland
+,Tomatoes - Orange,Projector,123.88,232,7/21/2022,0.77,Audry Mardy,amardy8m@arstechnica.com,Ghana
+,,Projector,288.89,935,6/13/2022,0.83,Joyan Swindells,jswindells8n@zimbio.com,China
+,Ketchup - Tomato,Projector,576.92,506,2/26/2022,0.52,Axel Gouley,agouley8o@theglobeandmail.com,Brazil
+,Steam Pan Full Lid,Projector,341.06,489,10/28/2022,0.55,Antone Banaszczyk,abanaszczyk8p@bizjournals.com,China
+315.0,Crab Brie In Phyllo,Caraud,160.23,80,3/24/2022,0.41,Clayton Billings,,Brazil
+316.0,Vanilla Beans,Caraud,899.98,485,10/29/2022,0.23,Anny Pinchen,apinchen8r@berkeley.edu,China
+317.0,Lid Coffee Cup 8oz Blk,Cooking,48.51,612,6/27/2022,0.77,Alix Kalkofen,akalkofen8s@reference.com,Kazakhstan
+,"Beef - Bones, Marrow",Caraud,251.26,584,10/3/2022,0.27,Decca Milburne,dmilburne8t@marriott.com,Japan
+,Parsley Italian - Fresh,Caraud,849.96,965,4/18/2022,0.21,Sergeant Stanning,,Democratic Republic of the Congo
+320.0,Muffin - Carrot Individual Wrap,Projector,761.19,773,2/4/2022,0.47,Gherardo Cloke,gcloke8v@people.com.cn,Serbia
+321.0,"Bread - Pumpernickle, Rounds",Cooking,515.49,9,11/24/2022,0.36,Gardy Calloway,gcalloway8w@cmu.edu,China
+,Crawfish,Caraud,121.29,860,8/19/2022,0.27,Hinze Farlham,,Peru
+,Containter - 3oz Microwave Rect.,Caraud,723.27,710,11/14/2022,0.23,Davy McClarence,dmcclarence8y@merriam-webster.com,Kazakhstan
+324.0,Clam Nectar,Cooking,575.4,578,9/24/2022,0.54,Guthry Woolner,gwoolner8z@jiathis.com,Indonesia
+325.0,"Tortillas - Flour, 10",TV,484.83,526,1/20/2022,0.34,Katti Warder,kwarder90@weibo.com,Russia
+,,Caraud,543.59,785,4/7/2022,0.6,Sara Wrennall,swrennall91@dagondesign.com,France
+327.0,Flower - Commercial Spider,MNT,562.98,787,3/3/2022,0.86,Lida Ganiclef,lganiclef92@fc2.com,China
+,Longos - Grilled Salmon With Bbq,Cooking,809.12,321,12/14/2022,0.78,Christoffer Ivanishin,civanishin93@nps.gov,Thailand
+,Cheese - Brick With Pepper,Cooking,247.19,244,9/4/2022,0.63,Cristine Stowte,cstowte94@netvibes.com,China
+330.0,Ginger - Crystalized,Caraud,163.32,779,4/22/2022,0.55,Idette Aspinal,iaspinal95@constantcontact.com,Mexico
+,Dc - Frozen Momji,Caraud,788.5,868,9/20/2022,0.39,Marsiella Wyer,mwyer96@quantcast.com,Kazakhstan
+,Oil - Pumpkinseed,TV,68.88,830,6/29/2022,0.56,Kellina Brabbs,kbrabbs97@psu.edu,Philippines
+333.0,Flour - Whole Wheat,MNT,136.27,27,3/10/2022,0.8,Val Idell,videll98@ifeng.com,Indonesia
+,Cheese - Feta,Projector,687.56,465,11/1/2022,0.69,Emilee Gainsford,egainsford99@bandcamp.com,Japan
+335.0,"Pineapple - Canned, Rings",Caraud,845.95,622,8/17/2022,0.46,Billy Drinkhall,bdrinkhall9a@reddit.com,Dominican Republic
+336.0,"Chocolate - Pistoles, White",Cooking,4.82,647,6/7/2022,0.35,Mitzi Lockless,mlockless9b@webmd.com,China
+337.0,,Caraud,672.34,264,3/20/2022,0.82,Frasquito Aldwich,faldwich9c@phpbb.com,Egypt
+338.0,Beer - Creemore,Caraud,477.47,666,8/10/2022,0.21,Chancey Ruoss,cruoss9d@oracle.com,Japan
+339.0,Wine - Acient Coast Caberne,MNT,726.08,577,8/12/2022,0.57,Toma Clausen,tclausen9e@ebay.com,Mexico
+,Kiwi,Caraud,544.91,999,3/29/2022,0.76,Abbe Bangiard,,Indonesia
+341.0,Nectarines,Cooking,773.21,178,5/28/2022,0.66,Irvine Lukas,ilukas9g@dailymail.co.uk,China
+,Lamb - Loin Chops,TV,539.1,784,12/4/2022,0.23,Izzy Bartelet,ibartelet9h@huffingtonpost.com,Indonesia
+343.0,"Rum - Light, Captain Morgan",Cooking,923.55,344,10/31/2022,0.7,Marja Groombridge,mgroombridge9i@etsy.com,Nigeria
+344.0,Lamb Shoulder Boneless Nz,TV,540.87,793,5/28/2022,0.62,Erhard Tickel,etickel9j@reddit.com,France
+,Pork - Belly Fresh,Caraud,827.3,520,12/17/2022,0.53,Corrie Ivashnyov,civashnyov9k@state.tx.us,Chile
+,Containter - 3oz Microwave Rect.,Cooking,226.51,713,7/10/2022,0.62,Emylee Smyth,,China
+,"Pork - Ham, Virginia",Caraud,607.64,699,12/15/2022,0.62,Norrie Picknett,npicknett9m@uiuc.edu,Russia
+,Coffee - Hazelnut Cream,MNT,664.89,400,4/29/2022,0.53,Tymothy Roycroft,troycroft9n@1und1.de,Thailand
+349.0,Wheat - Soft Kernal Of Wheat,Cooking,395.93,515,8/15/2022,0.22,Syman Soppett,ssoppett9o@deviantart.com,Palestinian Territory
+,Bagel - Plain,Caraud,732.23,12,3/6/2022,0.38,Rosita Baldinotti,rbaldinotti9p@issuu.com,Russia
+,Cookie Dough - Chunky,Caraud,717.93,489,1/26/2022,0.83,Henrieta Noe,hnoe9q@bloomberg.com,Ukraine
+352.0,Oil - Macadamia,Caraud,479.64,381,2/1/2022,0.45,Dud Heck,dheck9r@4shared.com,Philippines
+,,Projector,844.94,230,8/28/2022,0.88,Kele Kerrich,kkerrich9s@sina.com.cn,Canada
+354.0,"Wine - Red, Colio Cabernet",Caraud,485.38,544,5/16/2022,0.68,Audre Goman,agoman9t@plala.or.jp,Pakistan
+355.0,Wine - Baron De Rothschild,Projector,307.97,495,8/14/2022,0.37,Laverne Comer,lcomer9u@woothemes.com,Indonesia
+,"Lemonade - Natural, 591 Ml",MNT,523.17,255,10/27/2022,0.49,Sibyl Serrell,sserrell9v@yolasite.com,Greece
+357.0,Pike - Frozen Fillet,Caraud,790.58,166,3/11/2022,0.4,Prudi Matuszewski,pmatuszewski9w@omniture.com,China
+358.0,Cheese - Feta,Projector,853.81,300,12/22/2022,0.6,Codee Casoni,,Japan
+359.0,Nectarines,Projector,344.55,608,12/22/2022,0.27,Cthrine Bea,cbea9y@cbsnews.com,Ukraine
+,Milk 2% 500 Ml,Caraud,692.96,384,12/20/2022,0.73,Boy Buffy,bbuffy9z@shutterfly.com,Colombia
+361.0,"Syrup - Golden, Lyles",Cooking,898.18,14,4/30/2022,0.41,Stesha Tourle,stourlea0@meetup.com,South Africa
+,Mcguinness - Blue Curacao,Caraud,686.37,73,8/29/2022,0.74,Quillan Ogborne,qogbornea1@pagesperso-orange.fr,Poland
+,"Pasta - Rotini, Dry",MNT,905.95,323,6/28/2022,0.23,Jarred Muscott,jmuscotta2@ehow.com,Indonesia
+364.0,Soup - Campbells Chili Veg,Cooking,513.18,361,9/18/2022,0.76,Tonya Ibbetson,tibbetsona3@blog.com,China
+365.0,"Arctic Char - Fresh, Whole",MNT,391.41,451,11/25/2022,0.59,Connor Bilton,cbiltona4@nature.com,China
+366.0,Pepper Squash,Caraud,720.13,849,12/27/2022,0.29,Artemus Motten,amottena5@netlog.com,Kosovo
+,Table Cloth 53x69 White,MNT,150.92,64,5/26/2022,0.45,Kiel Rappa,krappaa6@people.com.cn,Portugal
+368.0,"Bread - Roll, Soft White Round",Cooking,263.81,877,1/12/2022,0.23,Almeta Paoli,apaolia7@intel.com,Russia
+369.0,"Soup - Campbells, Spinach Crm",Cooking,200.88,434,12/2/2022,0.47,Pierson Dake,pdakea8@ycombinator.com,China
+,Wine - Muscadet Sur Lie,Cooking,428.67,572,8/3/2022,0.84,Nomi Biddlestone,nbiddlestonea9@psu.edu,Finland
+,Potatoes - Peeled,Cooking,715.62,979,6/2/2022,0.26,Kipper Oldmeadow,koldmeadowaa@europa.eu,Ukraine
+372.0,Flower - Leather Leaf Fern,MNT,79.11,736,10/2/2022,0.54,Cordy Bailes,cbailesab@go.com,Vietnam
+373.0,Arizona - Plum Green Tea,MNT,928.41,115,3/2/2022,0.81,Leopold Tour,ltourac@gravatar.com,China
+374.0,Cheese - Oka,Caraud,189.44,166,8/28/2022,0.45,Tessie Stayt,tstaytad@wunderground.com,Albania
+375.0,Wooden Mop Handle,Cooking,354.23,656,11/3/2022,0.45,Jessi Sherman,jshermanae@i2i.jp,Philippines
+376.0,Tea - Lemon Scented,Projector,443.9,24,8/7/2022,0.21,Bogart Lagneaux,blagneauxaf@php.net,Philippines
+377.0,"Pasta - Penne, Rigate, Dry",Projector,954.65,257,12/14/2022,0.28,Gabey Van Bruggen,gvanag@ask.com,Nigeria
+378.0,Bandage - Flexible Neon,TV,513.23,563,1/27/2022,0.47,Mervin Turl,mturlah@tiny.cc,Portugal
+,Sloe Gin - Mcguinness,TV,991.98,506,2/6/2022,0.43,Chase Caulwell,ccaulwellai@reference.com,Indonesia
+,Mousse - Passion Fruit,TV,80.3,947,2/27/2022,0.78,Lelah Gunningham,lgunninghamaj@amazon.com,Portugal
+,Pastry - Lemon Danish - Mini,Caraud,275.55,633,3/28/2022,0.24,Elyn Dennick,,Russia
+382.0,Yucca,Projector,218.72,185,6/11/2022,0.38,Floris Kemson,,Bulgaria
+383.0,Blouse / Shirt / Sweater,Cooking,405.28,274,8/3/2022,0.78,Rebeca McAlarney,rmcalarneyam@cisco.com,France
+,Cornish Hen,MNT,679.88,28,10/31/2022,0.58,Kimbra Dello,kdelloan@virginia.edu,Portugal
+,Wine - Jaboulet Cotes Du Rhone,Projector,117.22,873,7/27/2022,0.38,Archer Fratson,afratsonao@mysql.com,Indonesia
+,"Asparagus - Green, Fresh",Projector,112.06,319,11/7/2022,0.54,Pauletta Colloby,pcollobyap@cloudflare.com,China
+,"Cheese - Romano, Grated",MNT,137.73,674,5/4/2022,0.22,Editha Ortiga,eortigaaq@hao123.com,France
+388.0,Evaporated Milk - Skim,Cooking,679.18,896,9/21/2022,0.34,Dermot Houlison,dhoulisonar@wikimedia.org,China
+,Red Cod Fillets - 225g,Caraud,808.67,695,5/9/2022,0.61,Martelle Maxweell,mmaxweellas@house.gov,China
+,Coffee Cup 16oz Foam,TV,425.08,653,5/13/2022,0.31,Jude Benko,jbenkoat@icio.us,China
+,Venison - Liver,Projector,490.92,56,7/15/2022,0.73,Kelcy Camsey,kcamseyau@baidu.com,Indonesia
+392.0,,MNT,775.07,470,4/27/2022,0.42,Niven Bouchard,nbouchardav@dion.ne.jp,Indonesia
+,"Ice - Clear, 300 Lb For Carving",Caraud,424.58,115,11/2/2022,0.85,Alfonso Gilogly,agiloglyaw@phpbb.com,China
+394.0,"Juice - Orange, 341 Ml",TV,349.92,107,4/30/2022,0.23,Gib Sapwell,gsapwellax@mozilla.org,Poland
+,Mackerel Whole Fresh,TV,839.46,52,8/14/2022,0.58,Glen Van der Velden,gvanay@smugmug.com,Indonesia
+396.0,Radish,Caraud,923.86,48,8/24/2022,0.38,Lane Lowndes,llowndesaz@ezinearticles.com,Mexico
+397.0,Muffin Batt - Choc Chk,Caraud,453.88,544,5/26/2022,0.65,Lorianne Berridge,lberridgeb0@si.edu,Argentina
+,Plaintain,MNT,799.59,532,12/3/2022,0.3,Sara-ann Arkcoll,,Colombia
+399.0,,Projector,965.4,273,5/25/2022,0.31,Ax Kubec,akubecb2@google.ru,Poland
+400.0,Straws - Cocktale,TV,510.44,591,8/3/2022,0.74,Reggis Searsby,rsearsbyb3@hhs.gov,Russia
+401.0,Pasta - Canelloni,Cooking,939.94,408,12/2/2022,0.82,Florie Baynes,fbaynesb4@unc.edu,China
+,Tomatoes - Yellow Hot House,MNT,247.42,608,1/22/2022,0.62,Glen Tremoulet,gtremouletb5@google.cn,Poland
+403.0,Apple - Royal Gala,TV,244.37,107,3/3/2022,0.67,Dorothee Hawk,dhawkb6@ebay.com,China
+,"Cheese - Woolwich Goat, Log",Caraud,528.79,642,11/21/2022,0.55,Lothaire Lawrinson,llawrinsonb7@dagondesign.com,Netherlands
+405.0,Yams,TV,785.77,513,8/20/2022,0.53,Gus Bracci,gbraccib8@patch.com,China
+406.0,Cheese - Montery Jack,Projector,665.71,208,1/29/2022,0.79,Suellen Baguley,sbaguleyb9@facebook.com,El Salvador
+,Chivas Regal - 12 Year Old,MNT,600.9,263,1/1/2022,0.72,Vinny Monnelly,vmonnellyba@4shared.com,Mexico
+,Cabbage - Green,Cooking,917.94,199,12/15/2022,0.84,Tandie Trewman,ttrewmanbb@smugmug.com,China
+,Rabbit - Saddles,MNT,943.94,146,11/2/2022,0.89,Kenn Garrish,kgarrishbc@cocolog-nifty.com,China
+,Bread Base - Goodhearth,MNT,846.78,535,8/6/2022,0.51,Alyosha Ower,aowerbd@wikispaces.com,Poland
+,Broom Handle,TV,769.82,530,8/11/2022,0.27,Kaylee Meaney,kmeaneybe@cargocollective.com,Indonesia
+,Hipnotiq Liquor,Caraud,312.18,533,5/30/2022,0.8,Travis Bachman,tbachmanbf@time.com,Russia
+413.0,Mousse - Mango,Projector,366.17,682,7/10/2022,0.66,Nichols Merrigan,nmerriganbg@scientificamerican.com,Azerbaijan
+414.0,Grouper - Fresh,Projector,434.86,48,7/24/2022,0.48,Dagny Stelljes,dstelljesbh@nba.com,Poland
+415.0,Pie Filling - Cherry,Projector,19.61,290,6/27/2022,0.7,Florentia Dunkerley,fdunkerleybi@skype.com,China
+416.0,Wasabi Paste,Projector,454.38,828,4/27/2022,0.61,Ruthi Linkin,rlinkinbj@usa.gov,Philippines
+,"Syrup - Monin, Irish Cream",MNT,959.06,378,7/3/2022,0.74,Kare Wyles,kwylesbk@desdev.cn,Colombia
+418.0,Cookies Almond Hazelnut,Projector,985.15,372,7/21/2022,0.53,Clem Joslow,,Azerbaijan
+419.0,Beer - Blue Light,Caraud,742.73,752,10/14/2022,0.68,Magdalen Ferrillio,mferrilliobm@woothemes.com,China
+,Chinese Foods - Plain Fried Rice,Cooking,127.89,47,8/27/2022,0.38,Bryce Brydson,bbrydsonbn@xrea.com,Russia
+421.0,Sprouts - Onion,MNT,750.74,343,5/16/2022,0.22,George Allewell,gallewellbo@netvibes.com,Indonesia
+422.0,Gherkin,MNT,972.8,377,10/13/2022,0.64,Harald Whiteoak,hwhiteoakbp@independent.co.uk,China
+,Ice Cream - Fudge Bars,Projector,538.61,518,2/13/2022,0.29,Grady Armour,garmourbq@dell.com,Indonesia
+,Dried Cherries,MNT,236.52,383,9/11/2022,0.89,Marcellina Curm,mcurmbr@army.mil,Colombia
+,Nescafe - Frothy French Vanilla,Cooking,379.28,771,10/16/2022,0.88,Ekaterina Tunstall,etunstallbs@delicious.com,China
+426.0,Ice Cream - Fudge Bars,Cooking,296.71,72,6/2/2022,0.21,Alexandre Rymer,arymerbt@macromedia.com,China
+427.0,Icecream - Dstk Strw Chseck,Projector,581.02,542,9/21/2022,0.72,Inglebert Killbey,ikillbeybu@sciencedaily.com,Indonesia
+,Wine - Malbec Trapiche Reserve,Caraud,773.14,228,5/11/2022,0.48,Rockie Stredwick,rstredwickbv@dyndns.org,France
+429.0,,Projector,354.91,231,5/25/2022,0.58,Bobbee Colpus,bcolpusbw@is.gd,China
+430.0,Tomato - Peeled Italian Canned,MNT,432.24,688,12/15/2022,0.62,El Klimczak,eklimczakbx@youtu.be,Chad
+,Cranberry Foccacia,TV,920.76,170,9/22/2022,0.82,Brittne Cridlin,bcridlinby@vk.com,Indonesia
+432.0,"Yogurt - Blueberry, 175 Gr",Caraud,853.73,150,3/31/2022,0.5,Leesa Smurfitt,lsmurfittbz@smh.com.au,Slovenia
+,Bagel - Everything Presliced,MNT,366.46,65,9/11/2022,0.8,Greg Ruprechter,gruprechterc0@amazon.de,Aland Islands
+434.0,"Bread - Pita, Mini",TV,790.73,270,10/25/2022,0.82,Sigismondo Trouel,strouelc1@creativecommons.org,France
+,Wine - Blue Nun Qualitatswein,Caraud,156.2,908,9/24/2022,0.77,Adaline Jacques,ajacquesc2@simplemachines.org,Indonesia
+436.0,Squid - Breaded,TV,709.88,95,11/10/2022,0.51,Lenci Plait,lplaitc3@vk.com,United States
+437.0,Muffin Carrot - Individual,TV,655.63,355,7/18/2022,0.48,Parke Harvie,pharviec4@newsvine.com,Ireland
+,Orange - Tangerine,TV,596.0,810,10/18/2022,0.24,Meredith Smallcombe,msmallcombec5@dyndns.org,Portugal
+,Sage Ground Wiberg,Caraud,603.5,606,1/13/2022,0.35,Fons Wannell,fwannellc6@w3.org,Portugal
+,Table Cloth 54x54 Colour,Projector,67.89,79,4/3/2022,0.58,Brianna Thurlborn,bthurlbornc7@bing.com,Greece
+,Venison - Ground,MNT,431.17,184,10/18/2022,0.78,Harmonie Scarsbrick,hscarsbrickc8@yahoo.co.jp,Indonesia
+442.0,Leeks - Large,Caraud,989.62,675,2/2/2022,0.67,Alica Olin,,Serbia
+443.0,,MNT,630.63,524,9/19/2022,0.38,Mose Somerbell,msomerbellca@mashable.com,Indonesia
+,Olives - Kalamata,TV,547.73,913,9/27/2022,0.56,Vance Jozefiak,vjozefiakcb@a8.net,Poland
+,Sambuca - Ramazzotti,TV,509.35,98,11/25/2022,0.44,Nydia Koenraad,nkoenraadcc@storify.com,Russia
+446.0,Pastry - Carrot Muffin - Mini,TV,633.03,238,5/3/2022,0.29,Sonny Mackleden,smackledencd@sitemeter.com,Ukraine
+447.0,Ginger - Pickled,MNT,205.67,118,1/29/2022,0.43,Forrest Perutto,fperuttoce@ted.com,Martinique
+448.0,Pork Loin Bine - In Frenched,Projector,553.56,653,11/6/2022,0.45,Gary Crosse,gcrossecf@mozilla.com,Macedonia
+449.0,Fish - Bones,Projector,487.46,725,5/20/2022,0.4,Vivi Lademann,,China
+450.0,Lamb Rack - Ontario,TV,992.74,14,7/22/2022,0.73,Etty Beeze,,Indonesia
+451.0,Kellogs Raisan Bran Bars,MNT,645.11,931,12/16/2022,0.57,Paquito Szymanowski,pszymanowskici@xinhuanet.com,Peru
+,Scallops 60/80 Iqf,Cooking,719.95,493,1/23/2022,0.72,Loralee Golsby,lgolsbycj@princeton.edu,Portugal
+,Beef - Top Butt Aaa,TV,818.33,723,11/1/2022,0.21,Gifford Lednor,glednorck@aboutads.info,Russia
+,,Cooking,198.47,781,6/20/2022,0.81,Enriqueta Lilloe,elilloecl@histats.com,Moldova
+455.0,Parsley - Fresh,Caraud,697.38,406,4/24/2022,0.71,Tish Babst,tbabstcm@prlog.org,China
+,Cheese - Goat,Projector,505.29,78,4/29/2022,0.33,Helaine McPhail,hmcphailcn@addtoany.com,Italy
+457.0,Juice - Cranberry 284ml,MNT,656.11,536,12/29/2022,0.59,Skipton Haldane,,France
+458.0,Carbonated Water - Blackberry,TV,408.58,741,11/27/2022,0.58,Wenona Arlow,warlowcp@skyrock.com,China
+,Potatoes - Idaho 80 Count,Cooking,715.56,327,2/8/2022,0.68,Jaimie Corrao,jcorraocq@shinystat.com,Tanzania
+460.0,Shrimp - Tiger 21/25,Projector,963.15,829,10/4/2022,0.69,Amberly Hughill,ahughillcr@myspace.com,Netherlands
+461.0,"Shrimp, Dried, Small / Lb",Projector,672.17,43,7/11/2022,0.36,Adria Nilges,anilgescs@unblog.fr,Morocco
+462.0,Gatorade - Cool Blue Raspberry,MNT,41.09,464,1/15/2022,0.54,Jilleen Valenti,,Argentina
+,Cauliflower,MNT,529.37,979,4/21/2022,0.7,Ardenia Courvert,acourvertcu@google.de,Malaysia
+464.0,"Soup - Knorr, Chicken Gumbo",Projector,128.03,8,2/16/2022,0.84,Vernon Nosworthy,vnosworthycv@imageshack.us,China
+,"Fish - Soup Base, Bouillon",Caraud,333.95,216,2/16/2022,0.63,Diarmid Poat,dpoatcw@mail.ru,Indonesia
+466.0,,TV,904.29,350,4/13/2022,0.21,Meagan Whitsey,mwhitseycx@lycos.com,Russia
+467.0,Pasta - Ravioli,Caraud,16.18,610,3/23/2022,0.65,Ardra Spurrier,aspurriercy@ehow.com,Russia
+,Cheese - Gouda Smoked,Cooking,175.9,732,7/12/2022,0.24,Idette Goby,igobycz@studiopress.com,Portugal
+469.0,Sausage - Chorizo,Projector,872.53,493,1/1/2022,0.88,Meagan Alcott,malcottd0@admin.ch,Philippines
+470.0,Oil - Olive,Cooking,923.22,523,7/30/2022,0.46,Frederic Wardhaugh,fwardhaughd1@china.com.cn,Republic of the Congo
+,Grenadine,MNT,126.07,84,3/7/2022,0.38,Darbee Applin,dapplind2@cargocollective.com,Sweden
+472.0,Pomello,Cooking,610.75,267,6/9/2022,0.44,Rab Cleland,,Kazakhstan
+473.0,Beef - Diced,Caraud,275.24,159,5/10/2022,0.59,Hazel Phebee,hphebeed4@360.cn,Iceland
+474.0,"Wine - White, Ej",TV,367.15,810,11/25/2022,0.59,Bendite Balnave,bbalnaved5@cnet.com,China
+475.0,Kale - Red,MNT,26.84,291,10/9/2022,0.29,Jim Janeway,jjanewayd6@aboutads.info,Indonesia
+,Cheese - Valancey,MNT,217.46,56,11/7/2022,0.84,Wayne Morville,,Indonesia
+477.0,Lid - 16 Oz And 32 Oz,Projector,177.75,487,11/9/2022,0.37,Teresita Matuskiewicz,tmatuskiewiczd8@people.com.cn,Indonesia
+478.0,,Projector,862.2,754,11/4/2022,0.86,Matti Gilhool,mgilhoold9@reverbnation.com,United Kingdom
+,Veal - Insides Provini,Projector,524.9,844,1/1/2022,0.74,Randolf Flowith,rflowithda@thetimes.co.uk,China
+,,Caraud,764.03,435,8/17/2022,0.68,Shadow Sobey,ssobeydb@youku.com,China
+481.0,Hummus - Spread,Caraud,599.86,758,7/17/2022,0.47,Stacy Florentine,sflorentinedc@epa.gov,Jamaica
+,Mints - Striped Red,Projector,794.52,594,9/18/2022,0.58,Randy Greenshiels,,Kenya
+,Bread - Ciabatta Buns,Caraud,545.05,764,7/11/2022,0.63,Thebault Swyer,tswyerde@cloudflare.com,Japan
+,"Lid - 10,12,16 Oz",Caraud,730.34,213,11/19/2022,0.37,Idalina Friatt,ifriattdf@smugmug.com,Norway
+485.0,"Wine - Red, Harrow Estates, Cab",MNT,468.7,212,11/25/2022,0.8,Renelle Houtbie,rhoutbiedg@hud.gov,Russia
+,Wine - Clavet Saint Emilion,TV,950.03,981,6/11/2022,0.68,Farr Gogin,fgogindh@engadget.com,Yemen
+487.0,Salt And Pepper Mix - Black,MNT,220.88,510,10/6/2022,0.26,Carlie Matteau,cmatteaudi@about.me,Indonesia
+488.0,Carbonated Water - Blackberry,MNT,320.86,605,2/11/2022,0.25,Flo Pelling,fpellingdj@xing.com,Macedonia
+489.0,"Bread - Roll, Italian",Projector,809.84,129,9/7/2022,0.58,Carmella Salkeld,csalkelddk@printfriendly.com,Cuba
+490.0,Chinese Foods - Chicken Wing,Caraud,3.88,458,8/15/2022,0.3,Riki Barling,rbarlingdl@japanpost.jp,Brazil
+491.0,Foam Espresso Cup Plain White,Cooking,602.66,426,6/1/2022,0.23,Ketty Torrese,ktorresedm@oaic.gov.au,Haiti
+492.0,Tea Leaves - Oolong,Caraud,200.74,193,2/5/2022,0.36,Jamesy Tharme,jtharmedn@patch.com,Honduras
+,Parasol Pick Stir Stick,TV,971.73,48,4/15/2022,0.25,Meridith McKinnon,mmckinnondo@hhs.gov,Sweden
+,Plastic Arrow Stir Stick,MNT,285.35,892,4/4/2022,0.6,Lloyd Wyche,lwychedp@cloudflare.com,Georgia
+495.0,Tea - Apple Green Tea,Caraud,782.97,164,12/10/2022,0.37,Dion Gagg,dgaggdq@redcross.org,Brazil
+,Sobe - Cranberry Grapefruit,MNT,635.29,269,2/11/2022,0.41,Godfry Course,gcoursedr@imageshack.us,Indonesia
+,Dill Weed - Dry,Projector,360.23,923,9/22/2022,0.57,Clarine Verlander,cverlanderds@mozilla.com,Albania
+498.0,Lettuce - Boston Bib,Projector,67.72,70,9/7/2022,0.79,Noami De Vries,ndedt@yale.edu,China
+,Beer - Sleemans Honey Brown,MNT,277.56,743,7/11/2022,0.68,Liam Regenhardt,lregenhardtdu@howstuffworks.com,China
+,Cheese - Gouda Smoked,TV,29.11,301,12/9/2022,0.3,Farlay Gariff,fgariffdv@independent.co.uk,Peru
+,Nantucket - Pomegranate Pear,Cooking,790.25,40,4/4/2022,0.41,Myles MacKeeg,mmackeegdw@cisco.com,France
+502.0,"Juice - Apple, 341 Ml",MNT,368.09,707,9/18/2022,0.32,Nichole Alliston,nallistondx@hud.gov,China
+503.0,Rosemary - Dry,MNT,662.22,247,5/22/2022,0.64,Glenn Roston,grostondy@blogs.com,Indonesia
+,Peppercorns - Pink,MNT,340.84,721,4/23/2022,0.43,Daffie McMurrugh,dmcmurrughdz@wordpress.org,Niger
+505.0,Ocean Spray - Kiwi Strawberry,Caraud,791.07,377,8/27/2022,0.87,Adele Gummery,agummerye0@godaddy.com,China
+506.0,Cheese - Pont Couvert,Projector,694.29,151,9/25/2022,0.7,Bev Royl,broyle1@boston.com,Canada
+,Beets - Golden,TV,41.58,269,11/7/2022,0.25,Davey Loughran,,Ukraine
+,Cheese - Le Cru Du Clocher,Projector,515.47,861,8/10/2022,0.52,Bette Maciunas,bmaciunase3@netvibes.com,Colombia
+509.0,Versatainer Nc - 888,Caraud,66.76,880,10/3/2022,0.4,Bartlet Fautly,bfautlye4@skyrock.com,Brazil
+510.0,"Juice - V8, Tomato",Projector,741.52,314,8/25/2022,0.25,Brina Sandham,bsandhame5@soup.io,China
+,Lamb Tenderloin Nz Fr,MNT,726.41,861,9/6/2022,0.86,Fabien Singleton,fsingletone6@yahoo.co.jp,Ireland
+512.0,"Nut - Walnut, Pieces",TV,58.9,283,7/20/2022,0.52,Min Themann,mthemanne7@miibeian.gov.cn,Paraguay
+513.0,Heavy Duty Dust Pan,TV,334.88,284,9/19/2022,0.85,Legra McDonnell,lmcdonnelle8@unicef.org,Chile
+514.0,Versatainer Nc - 8288,Caraud,864.45,260,8/4/2022,0.87,Abra Hannan,ahannane9@cam.ac.uk,Czech Republic
+515.0,Cheese - Colby,Cooking,378.18,532,4/18/2022,0.82,Leeanne Dunbar,ldunbarea@bing.com,Thailand
+516.0,Flavouring - Rum,Caraud,36.71,759,6/6/2022,0.45,Ilise Bovaird,ibovairdeb@webs.com,Philippines
+517.0,"C - Plus, Orange",Caraud,525.6,39,11/1/2022,0.86,Beale Thundercliffe,bthundercliffeec@wikimedia.org,Indonesia
+518.0,Instant Coffee,Projector,599.7,874,3/29/2022,0.85,Garner Piche,gpicheed@amazon.com,Indonesia
+519.0,Ham - Cooked Italian,TV,963.65,947,9/26/2022,0.8,Nadiya McGilbon,nmcgilbonee@marriott.com,China
+520.0,Longos - Greek Salad,MNT,304.82,505,8/9/2022,0.44,Ali Ashard,aashardef@goodreads.com,Philippines
+521.0,Cookie Choc,Projector,949.6,684,4/13/2022,0.57,Lou Conrad,lconradeg@howstuffworks.com,Panama
+,,Projector,788.42,546,1/20/2022,0.43,Alix Woodwin,awoodwineh@soup.io,Poland
+523.0,Muffin Mix - Oatmeal,TV,316.82,75,11/6/2022,0.24,Dud Wandtke,dwandtkeei@telegraph.co.uk,China
+524.0,Cheese - Mix,MNT,212.05,483,1/4/2022,0.5,Steffane Fairney,sfairneyej@theglobeandmail.com,China
+,Broom - Push,MNT,159.27,911,12/17/2022,0.31,Nollie Pladen,npladenek@smh.com.au,Indonesia
+526.0,Salmon - Canned,Projector,858.09,61,8/11/2022,0.54,Trisha de Najera,tdeel@dedecms.com,France
+,Venison - Racks Frenched,TV,865.52,745,7/13/2022,0.55,Cathryn Crayke,ccraykeem@macromedia.com,China
+528.0,Tart - Lemon,Projector,272.97,137,5/29/2022,0.64,Tadio Taber,ttaberen@phpbb.com,Jamaica
+529.0,Shallots,Caraud,387.44,390,5/2/2022,0.66,Nikoletta Costerd,ncosterdeo@tinypic.com,China
+,Nantucket Pine Orangebanana,MNT,405.98,577,3/5/2022,0.4,Virge Babbage,vbabbageep@nymag.com,Tunisia
+531.0,Food Colouring - Green,Cooking,39.95,723,12/1/2022,0.81,Julie Melburg,jmelburgeq@google.com,Sweden
+,"Veal - Tenderloin, Untrimmed",Caraud,331.21,188,5/29/2022,0.55,Corie Dhenin,cdheniner@printfriendly.com,Albania
+533.0,Wine - Chateau Aqueria Tavel,MNT,289.55,448,3/20/2022,0.38,Hewett Wallman,hwallmanes@multiply.com,Russia
+534.0,"Soup - Campbells, Cream Of",Projector,559.95,359,8/15/2022,0.44,Eddie Digle,edigleet@hud.gov,China
+,Croissants Thaw And Serve,MNT,665.03,457,3/28/2022,0.73,Adaline Walters,awalterseu@example.com,Indonesia
+536.0,Bananas,Projector,672.53,698,12/7/2022,0.7,Lexis Coult,,Portugal
+,"Extract - Vanilla,artificial",TV,865.08,12,11/10/2022,0.21,Adrienne Pegg,apeggew@hhs.gov,Cuba
+,Juice - Apple 284ml,Cooking,475.49,839,5/12/2022,0.37,Tanya Lerwell,tlerwellex@ca.gov,Malaysia
+539.0,Ecolab - Mikroklene 4/4 L,Projector,633.11,737,11/14/2022,0.56,Roxanne Baitman,,China
+,Eel Fresh,Cooking,129.91,143,4/1/2022,0.83,Tallie Grishakov,tgrishakovez@webnode.com,China
+541.0,Temperature Recording Station,Cooking,30.23,997,6/10/2022,0.75,Aland McLeese,amcleesef0@chronoengine.com,United States
+542.0,Clam Nectar,Caraud,824.24,226,4/7/2022,0.39,Clint Aldersley,caldersleyf1@amazon.de,Japan
+,Wine - Ice Wine,MNT,603.4,565,12/7/2022,0.22,Emmalyn Sully,esullyf2@prlog.org,Czech Republic
+,Cup - 4oz Translucent,Cooking,671.68,353,1/21/2022,0.63,Trixi Wootton,twoottonf3@scribd.com,Indonesia
+545.0,Trueblue - Blueberry 12x473ml,Projector,395.1,165,10/7/2022,0.4,Steve Willerson,swillersonf4@google.pl,French Polynesia
+,Carbonated Water - White Grape,Cooking,226.63,675,11/7/2022,0.42,Teri Tutt,ttuttf5@hatena.ne.jp,China
+,Lettuce - Treviso,Cooking,739.53,200,7/24/2022,0.64,Rickie Zarfat,,Argentina
+548.0,Compound - Passion Fruit,TV,120.94,75,1/24/2022,0.44,Arvie Sustins,asustinsf7@xing.com,Democratic Republic of the Congo
+549.0,"Tomatoes - Cherry, Yellow",MNT,75.15,977,1/20/2022,0.88,Cullan Casse,ccassef8@shareasale.com,Sweden
+550.0,Appetizer - Mushroom Tart,Caraud,37.88,691,9/15/2022,0.37,Ali Ritchman,aritchmanf9@arstechnica.com,Indonesia
+551.0,Garlic - Peeled,Projector,624.01,100,5/27/2022,0.25,Tiffanie Chark,tcharkfa@google.de,Saudi Arabia
+,"Jam - Blackberry, 20 Ml Jar",Projector,760.16,720,2/20/2022,0.49,Nicky Hitschke,nhitschkefb@bloglines.com,China
+,Cookie Chocolate Chip With,TV,884.55,990,5/30/2022,0.4,Felix Duckers,fduckersfc@deviantart.com,China
+554.0,Macaroons - Homestyle Two Bit,Projector,217.31,639,9/19/2022,0.3,Dasya Robertson,drobertsonfd@opensource.org,Greece
+555.0,Compound - Orange,Cooking,192.13,525,6/18/2022,0.54,Lester Howden,lhowdenfe@japanpost.jp,Kazakhstan
+556.0,Pepsi - 600ml,Projector,5.5,217,10/12/2022,0.79,Carlene Merrick,cmerrickff@printfriendly.com,Philippines
+557.0,"Olives - Black, Pitted",Cooking,717.29,435,8/9/2022,0.8,Amelie Popley,apopleyfg@g.co,Kenya
+,Tea - Mint,Cooking,480.78,322,10/23/2022,0.57,Egor Brunroth,,Poland
+559.0,Tea - Mint,Cooking,122.15,743,11/5/2022,0.81,Cello Lightning,clightningfi@wix.com,Colombia
+560.0,Table Cloth - 53x69 Colour,Cooking,745.64,7,10/6/2022,0.62,Harwell Harbage,,Dominican Republic
+561.0,"Nut - Pine Nuts, Whole",Cooking,610.23,745,12/17/2022,0.82,Krystle Oxenbury,koxenburyfk@aboutads.info,Portugal
+,"Yogurt - Banana, 175 Gr",Caraud,939.96,376,3/19/2022,0.41,Alair Keel,akeelfl@netvibes.com,Philippines
+,Blueberries - Frozen,MNT,275.85,384,2/12/2022,0.44,Kristy Pagel,,Indonesia
+,Papadam,TV,748.24,86,8/7/2022,0.27,Fran Gyves,,China
+565.0,"Beef - Bones, Marrow",Projector,647.99,321,12/18/2022,0.85,Clarey Ghelardoni,cghelardonifo@hugedomains.com,Peru
+566.0,Sole - Iqf,MNT,327.62,706,10/24/2022,0.25,Clarey Hallet,challetfp@redcross.org,Russia
+567.0,"Cheese - Cheddar, Mild",Caraud,893.9,740,9/17/2022,0.62,Inna Mendez,imendezfq@guardian.co.uk,Sweden
+568.0,Almonds Ground Blanched,Cooking,466.82,986,11/22/2022,0.36,Gregorio Aldcorne,galdcornefr@trellian.com,Czech Republic
+569.0,Table Cloth 53x69 White,Projector,327.67,793,7/4/2022,0.65,Romonda Ellissen,rellissenfs@t.co,Sweden
+570.0,,TV,168.96,729,1/18/2022,0.27,Lyman Creany,lcreanyft@buzzfeed.com,Russia
+,Chocolate - White,Projector,719.0,255,4/20/2022,0.72,Thomasina Lydall,tlydallfu@wiley.com,Argentina
+572.0,Mustard - Pommery,MNT,651.72,265,12/3/2022,0.64,Truda Loughlin,tloughlinfv@hhs.gov,China
+573.0,"Pepper - Green, Chili",Projector,706.88,753,8/20/2022,0.71,Tallie Guitel,tguitelfw@simplemachines.org,Netherlands
+574.0,Dc Hikiage Hira Huba,Cooking,432.95,364,12/24/2022,0.28,Jessie Rookeby,jrookebyfx@gov.uk,Ukraine
+575.0,Cake - Miini Cheesecake Cherry,Cooking,888.46,245,11/2/2022,0.75,Mufi Brunnen,mbrunnenfy@epa.gov,Philippines
+576.0,Coffee Caramel Biscotti,MNT,59.56,176,4/3/2022,0.45,Susy Stitch,sstitchfz@digg.com,Indonesia
+577.0,Mushroom Morel Fresh,MNT,946.03,70,1/12/2022,0.45,Burl Besnard,bbesnardg0@va.gov,Indonesia
+,Cumin - Ground,TV,281.22,712,2/15/2022,0.28,Gerrard Tenney,gtenneyg1@phoca.cz,Indonesia
+,Tea - Herbal Orange Spice,TV,224.2,887,7/18/2022,0.25,Davida Godley,dgodleyg2@dyndns.org,Uganda
+580.0,Table Cloth 62x114 White,Projector,662.51,113,11/29/2022,0.8,Felecia Challens,,Japan
+581.0,Rolled Oats,Cooking,376.79,28,6/11/2022,0.57,Cate Doll,cdollg4@auda.org.au,Micronesia
+582.0,Table Cloth 90x90 Colour,Caraud,556.75,268,11/19/2022,0.63,Angie Reddecliffe,areddecliffeg5@shareasale.com,Peru
+,Nougat - Paste / Cream,Projector,664.73,656,7/20/2022,0.6,Nari Tomaskunas,ntomaskunasg6@springer.com,Brazil
+584.0,Cream - 10%,MNT,839.4,918,8/12/2022,0.37,Karel Mougel,kmougelg7@blinklist.com,Indonesia
+585.0,Beef Flat Iron Steak,Caraud,470.99,773,2/13/2022,0.37,Cora MacRedmond,cmacredmondg8@goodreads.com,Peru
+586.0,Steel Wool,MNT,844.62,938,2/7/2022,0.58,Mag Midner,mmidnerg9@typepad.com,Czech Republic
+,Cheese - Cheddarsliced,MNT,173.58,734,8/8/2022,0.63,Cloris Sebright,csebrightga@ning.com,Nigeria
+,Cranberry Foccacia,TV,992.56,498,7/26/2022,0.71,Timmy Osbiston,tosbistongb@ebay.co.uk,Poland
+589.0,Cafe Royale,MNT,139.84,877,11/7/2022,0.21,Lorens Bendin,lbendingc@google.co.uk,Poland
+590.0,Laundry - Bag Cloth,TV,831.37,109,4/12/2022,0.82,Linn Birtchnell,lbirtchnellgd@wunderground.com,Portugal
+591.0,Crab Meat Claw Pasteurise,Caraud,944.41,779,9/18/2022,0.32,Darin Wybron,dwybronge@apache.org,South Korea
+,"Tomatoes - Vine Ripe, Red",Cooking,83.42,914,3/27/2022,0.77,Sherilyn Rodolf,srodolfgf@parallels.com,Pakistan
+593.0,Raspberries - Frozen,Cooking,290.19,498,11/24/2022,0.8,Vernen Coombe,vcoombegg@etsy.com,China
+594.0,Pastry - Baked Cinnamon Stick,TV,813.42,659,7/12/2022,0.49,Maegan Kleimt,mkleimtgh@pinterest.com,Indonesia
+595.0,,Cooking,937.49,775,1/17/2022,0.39,Natty Potebury,npoteburygi@nbcnews.com,China
+,Rice Wine - Aji Mirin,MNT,692.44,426,4/1/2022,0.59,August Farress,afarressgj@gov.uk,China
+597.0,Fruit Mix - Light,Projector,628.74,11,6/24/2022,0.71,Virgilio Twopenny,vtwopennygk@accuweather.com,China
+598.0,Coffee Cup 8oz 5338cd,Cooking,293.61,923,9/10/2022,0.82,Jolie Balstone,,Luxembourg
+599.0,"Fish - Halibut, Cold Smoked",MNT,802.1,243,2/24/2022,0.33,Niccolo Woodhall,nwoodhallgm@drupal.org,China
+600.0,Sugar - Cubes,Projector,834.14,636,7/22/2022,0.22,Iorgo Wadly,iwadlygn@tuttocitta.it,Mexico
+601.0,Cassis,Cooking,769.13,441,4/3/2022,0.41,Flory Wonter,fwontergo@google.com,Indonesia
+602.0,Sage Derby,Projector,64.19,429,3/7/2022,0.55,Chadwick Longhirst,clonghirstgp@huffingtonpost.com,Indonesia
+603.0,Lid Tray - 16in Dome,Cooking,894.55,2,9/10/2022,0.47,Darlene Corragan,dcorragangq@google.cn,Philippines
+604.0,Grenadine,Caraud,410.27,950,10/29/2022,0.74,Rob Langfitt,rlangfittgr@deviantart.com,Indonesia
+,General Purpose Trigger,Projector,658.16,234,9/20/2022,0.82,Burg Juanes,bjuanesgs@cornell.edu,Thailand
+606.0,Longos - Grilled Veg Sandwiches,Caraud,747.11,711,2/22/2022,0.76,Rheta Mitchinson,rmitchinsongt@naver.com,France
+,Wine - Redchard Merritt,TV,933.15,211,7/16/2022,0.58,Gilberta Batha,gbathagu@github.io,China
+608.0,Coffee - Flavoured,MNT,994.61,94,7/6/2022,0.66,Eadith Moyer,emoyergv@fema.gov,Czech Republic
+,Cafe Royale,MNT,590.52,686,10/30/2022,0.46,Jillene Macartney,jmacartneygw@apple.com,Brazil
+610.0,Carbonated Water - Blackberry,Projector,690.23,11,9/24/2022,0.44,Ennis Puckham,epuckhamgx@cmu.edu,Netherlands
+611.0,"Wine - Red, Mosaic Zweigelt",Projector,806.43,77,6/22/2022,0.8,Bunny Nickols,bnickolsgy@themeforest.net,China
+,"Lentils - Green, Dry",TV,64.76,326,4/14/2022,0.42,Lazare Gibbieson,lgibbiesongz@deliciousdays.com,Malaysia
+613.0,Pineapple - Golden,TV,845.81,582,8/8/2022,0.32,Gerry Langhorn,glanghornh0@discovery.com,Russia
+614.0,"Wine - Red, Lurton Merlot De",TV,36.97,803,7/3/2022,0.58,Anne-marie Sieb,asiebh1@europa.eu,Russia
+,Dc - Frozen Momji,TV,963.62,839,9/20/2022,0.52,Guilbert Hazley,ghazleyh2@booking.com,Czech Republic
+616.0,Flavouring - Rum,Projector,185.63,342,3/31/2022,0.32,Correy Witt,,China
+617.0,Lettuce - Lambs Mash,Projector,641.08,443,4/22/2022,0.89,Kerwinn Silverlock,ksilverlockh4@oakley.com,Philippines
+618.0,Tomato - Peeled Italian Canned,Projector,538.81,273,9/20/2022,0.66,Abbe O' Scallan,aoh5@ca.gov,Argentina
+619.0,Dried Apple,Cooking,315.3,9,1/11/2022,0.53,Win Georgot,wgeorgoth6@mysql.com,Indonesia
+,"Cup - 3.5oz, Foam",MNT,183.86,483,7/19/2022,0.3,Georgiana Emslie,,Philippines
+621.0,Veal - Insides Provini,TV,14.76,632,11/29/2022,0.61,Giraud Paute,,Colombia
+622.0,Vodka - Moskovskaya,Projector,969.26,858,5/26/2022,0.81,Melesa Rowney,mrowneyh9@phpbb.com,Poland
+,Appetizer - Veg Assortment,Projector,258.75,908,9/7/2022,0.38,Mikkel Lewsy,mlewsyha@spiegel.de,Zambia
+624.0,Cardamon Seed / Pod,Projector,648.68,535,9/2/2022,0.55,Jeanette Hargrave,jhargravehb@sina.com.cn,China
+,Onions - White,Cooking,676.89,475,1/28/2022,0.46,Zelma Biddiss,zbiddisshc@huffingtonpost.com,Indonesia
+,Mushroom - Crimini,MNT,353.96,991,7/5/2022,0.85,Elwin Sparkes,,Poland
+627.0,Cucumber - English,Caraud,488.96,826,12/5/2022,0.6,Kylie Hotson,khotsonhe@gov.uk,China
+628.0,Pineapple - Golden,MNT,199.33,146,10/22/2022,0.68,Virginie Stenett,vstenetthf@friendfeed.com,Poland
+,"C - Plus, Orange",Caraud,315.05,485,7/6/2022,0.23,Corbett O'Connolly,coconnollyhg@sbwire.com,Poland
+630.0,Potatoes - Fingerling 4 Oz,Caraud,779.39,416,4/1/2022,0.2,Paule Fownes,pfowneshh@free.fr,Chad
+631.0,"Trout - Hot Smkd, Dbl Fillet",Cooking,962.92,945,6/17/2022,0.76,Lucy Orsi,lorsihi@indiegogo.com,Japan
+,"Noodles - Cellophane, Thin",TV,909.65,936,1/16/2022,0.22,Crysta Falconar,cfalconarhj@discovery.com,Iran
+633.0,Peas Snow,TV,760.57,538,9/7/2022,0.57,Alejandro Bartosiak,abartosiakhk@howstuffworks.com,United States
+634.0,"Napkin - Cocktail,beige 2 - Ply",Cooking,673.53,44,4/23/2022,0.21,Nanete Halsey,nhalseyhl@instagram.com,China
+,Tofu - Firm,Projector,286.54,366,9/4/2022,0.71,Dorice Biasio,dbiasiohm@symantec.com,Poland
+636.0,Coffee Beans - Chocolate,Caraud,319.22,377,3/24/2022,0.67,Rochelle Ferron,rferronhn@sourceforge.net,Norway
+,Broom And Broom Rack White,MNT,173.49,703,8/20/2022,0.86,Petronilla Poulett,ppoulettho@jigsy.com,Cyprus
+,,Projector,902.19,942,11/29/2022,0.6,Sherline Chamberlen,schamberlenhp@smh.com.au,United States
+639.0,Aspic - Amber,Caraud,568.1,548,11/10/2022,0.47,Imogen Standen,istandenhq@posterous.com,Russia
+640.0,Soup - Campbells Mushroom,MNT,236.85,138,3/29/2022,0.54,Alejandra Cotterrill,acotterrillhr@google.com.hk,"Bonaire, Saint Eustatius and Saba "
+,Beer - Sleemans Honey Brown,TV,853.14,816,5/14/2022,0.55,Ginelle Crosham,,France
+642.0,,Caraud,751.64,456,3/1/2022,0.73,Denys Roscamp,droscampht@hugedomains.com,Indonesia
+643.0,"Wine - Red, Mosaic Zweigelt",Projector,486.65,814,8/21/2022,0.23,Karilynn Gravet,kgravethu@nsw.gov.au,China
+644.0,Melon - Honey Dew,Caraud,4.85,570,6/10/2022,0.75,Reginauld Keal,rkealhv@ihg.com,Brazil
+645.0,Sprouts Dikon,Projector,634.36,746,10/30/2022,0.48,Kaine Rutley,krutleyhw@dedecms.com,China
+,Juice Peach Nectar,Cooking,505.57,339,3/27/2022,0.44,Dredi Goldhill,,China
+647.0,"Pork - Sausage, Medium",MNT,449.18,783,10/20/2022,0.46,Melosa Marchent,mmarchenthy@homestead.com,South Korea
+648.0,Snapple - Mango Maddness,TV,464.79,513,9/1/2022,0.87,Alic Soreau,asoreauhz@reuters.com,Russia
+649.0,Halibut - Fletches,TV,119.19,844,3/10/2022,0.86,Alia Trice,atricei0@tmall.com,Pakistan
+,Juice - Cranberry 284ml,TV,372.96,996,1/16/2022,0.27,Lorelle Rope,lropei1@time.com,Azerbaijan
+,"Pasta - Tortellini, Fresh",Projector,358.21,83,8/27/2022,0.56,Audrye Ewan,aewani2@last.fm,Greece
+652.0,Goat - Whole Cut,Projector,875.12,706,10/8/2022,0.86,Chaunce Assender,,China
+653.0,Milk - Skim,Caraud,740.68,239,12/23/2022,0.68,Philbert Everall,peveralli4@weebly.com,Nauru
+654.0,"Placemat - Scallop, White",Projector,317.22,723,2/21/2022,0.62,Layne Haile,lhailei5@cnet.com,Philippines
+,Beef - Ground Medium,MNT,624.46,802,11/14/2022,0.87,Gerry Woolham,,China
+656.0,"Sole - Dover, Whole, Fresh",Cooking,561.47,250,2/24/2022,0.46,Gertrud Vye,gvyei7@sciencedirect.com,China
+657.0,Beer - True North Lager,MNT,34.47,63,5/2/2022,0.42,Hannie Sille,hsillei8@google.pl,Sweden
+658.0,Wine - Hardys Bankside Shiraz,Cooking,309.03,529,2/1/2022,0.45,Clementius Ianne,,United States
+,Grand Marnier,Cooking,384.56,621,5/1/2022,0.84,Shirlee Chataignier,schataignieria@google.co.uk,Peru
+660.0,Pepper Squash,Cooking,599.23,812,7/21/2022,0.37,Kamilah Tarbox,ktarboxib@aboutads.info,Brazil
+661.0,,Projector,629.95,86,3/15/2022,0.2,Faythe Achrameev,fachrameevic@webmd.com,China
+662.0,Corn Syrup,Cooking,301.99,671,4/8/2022,0.35,Robbin Balaam,rbalaamid@icio.us,Poland
+,Cheese - Pont Couvert,MNT,488.13,681,4/2/2022,0.64,Ado Hundey,ahundeyie@ihg.com,Comoros
+664.0,Tuna - Yellowfin,Cooking,971.55,270,4/23/2022,0.84,Randee Davey,rdaveyif@xinhuanet.com,Moldova
+,Russian Prince,TV,452.34,535,12/7/2022,0.44,Phylis McCarry,pmccarryig@sourceforge.net,China
+666.0,"Bread - Rolls, Rye",Cooking,288.7,419,6/27/2022,0.33,Janene Cartmail,jcartmailih@squidoo.com,Russia
+,Wine - Blue Nun Qualitatswein,Cooking,65.86,459,11/12/2022,0.78,Georgia Rishbrook,grishbrookii@ucsd.edu,Argentina
+668.0,Milk - Chocolate 500ml,TV,887.93,487,6/7/2022,0.41,Melvyn Jeandin,mjeandinij@rediff.com,Thailand
+669.0,Waffle Stix,Projector,227.23,826,11/13/2022,0.76,Celeste Tune,,United States
+,"Capon - Breast, Double, Wing On",MNT,613.01,141,8/24/2022,0.56,Melamie D'Antonio,mdantonioil@ehow.com,Cameroon
+671.0,Soup - Campbells Beef Strogonoff,Cooking,860.1,171,9/11/2022,0.46,Norry Highwood,nhighwoodim@state.gov,China
+,Orange Roughy 6/8 Oz,Caraud,324.47,885,3/7/2022,0.61,Kennedy Critch,,China
+673.0,Sprite - 355 Ml,MNT,898.79,814,3/15/2022,0.31,Brianna Elington,,Indonesia
+,Bread - 10 Grain,Caraud,947.21,778,9/28/2022,0.66,Rowan Sheards,rsheardsip@edublogs.org,Indonesia
+675.0,Squid - U - 10 Thailand,Cooking,155.15,241,12/15/2022,0.42,Marta Pryer,,Philippines
+676.0,"Artichokes - Knobless, White",Caraud,428.58,556,6/24/2022,0.88,Alyce Bullon,abullonir@upenn.edu,Tanzania
+,Aspic - Light,MNT,278.5,18,4/9/2022,0.64,Linn Armytage,larmytageis@prnewswire.com,China
+678.0,Pie Shells 10,TV,216.8,315,3/23/2022,0.89,Rosalind Filipczynski,rfilipczynskiit@boston.com,Portugal
+679.0,Wine - Crozes Hermitage E.,TV,371.77,282,2/23/2022,0.49,Justine Ilyin,,Philippines
+680.0,Wine - Two Oceans Cabernet,Cooking,858.09,400,10/17/2022,0.56,Randell Blackborne,rblackborneiv@ezinearticles.com,China
+681.0,Butter Sweet,Caraud,82.61,134,1/1/2022,0.62,Lona I'anson,liansoniw@stumbleupon.com,Peru
+682.0,Table Cloth 90x90 White,Cooking,979.68,120,9/13/2022,0.75,Corena Fordyce,cfordyceix@gmpg.org,Japan
+,Rice Wine - Aji Mirin,Projector,996.96,246,10/5/2022,0.62,Elnora Dalglish,edalglishiy@xinhuanet.com,Japan
+,Allspice - Jamaican,MNT,523.67,411,10/8/2022,0.34,Britney Britland,bbritlandiz@usnews.com,China
+685.0,Miso Paste White,TV,847.14,525,6/16/2022,0.6,Avis Wrate,awratej0@t-online.de,Sweden
+686.0,Wine - Placido Pinot Grigo,TV,5.21,553,1/1/2022,0.49,Lucais Danzey,ldanzeyj1@sciencedirect.com,Kenya
+,Muffin Batt - Blueberry Passion,Caraud,504.08,567,1/3/2022,0.25,Gerardo Fenwick,gfenwickj2@topsy.com,France
+,Veal Inside - Provimi,Projector,953.82,677,4/18/2022,0.68,Malachi Boodell,mboodellj3@fotki.com,Indonesia
+689.0,Onions - White,Cooking,757.3,654,12/19/2022,0.25,Luisa Stopforth,lstopforthj4@nyu.edu,China
+,,Projector,345.03,863,7/22/2022,0.89,Elnore Fortnam,efortnamj5@loc.gov,France
+,Pie Filling - Cherry,MNT,534.84,582,4/14/2022,0.52,Wayne Somerville,wsomervillej6@hao123.com,United States
+,Venison - Racks Frenched,Projector,246.95,269,6/10/2022,0.51,Heidie Hendrikse,hhendriksej7@toplist.cz,Bolivia
+693.0,Cornflakes,Cooking,610.7,678,5/25/2022,0.78,Tammara Stapylton,tstapyltonj8@cargocollective.com,Poland
+694.0,Table Cloth 53x69 White,MNT,220.75,346,5/21/2022,0.65,Thekla Di Biasio,tdij9@discovery.com,Portugal
+,Wine - Jafflin Bourgongone,Caraud,330.11,414,10/19/2022,0.24,Brandi Dumbarton,,Philippines
+,Wine - Ice Wine,MNT,990.41,744,12/17/2022,0.32,Dodie Dignan,ddignanjb@rediff.com,Thailand
+697.0,,Projector,71.25,713,12/10/2022,0.77,Jacquelynn Piercy,jpiercyjc@google.co.uk,Portugal
+,Irish Cream - Butterscotch,TV,415.01,728,6/23/2022,0.58,Sonni Dallimore,sdallimorejd@360.cn,Argentina
+,Chickhen - Chicken Phyllo,Projector,852.79,301,8/13/2022,0.78,Maison Gillmore,mgillmoreje@ucoz.com,Colombia
+,Bread - Onion Focaccia,Caraud,282.95,394,1/23/2022,0.64,Maryjane Pratten,mprattenjf@ucoz.ru,Pakistan
+,Breadfruit,Caraud,21.92,449,10/28/2022,0.35,Dix Midlar,dmidlarjg@sciencedirect.com,Bulgaria
+702.0,"Pork - Tenderloin, Frozen",Cooking,123.84,127,1/13/2022,0.85,Dino Duffet,dduffetjh@baidu.com,Cyprus
+703.0,Sour Puss Raspberry,Cooking,374.79,624,5/3/2022,0.35,Aida Iacobetto,aiacobettoji@spotify.com,China
+704.0,Mace,TV,706.79,820,12/5/2022,0.79,Pace Overill,poverilljj@sakura.ne.jp,Canada
+,Sauce - Salsa,Projector,495.85,914,5/21/2022,0.83,Lenard Spradbery,lspradberyjk@dailymotion.com,China
+,Bread - French Stick,TV,955.12,295,10/26/2022,0.35,Fey Ashplant,fashplantjl@imgur.com,Indonesia
+707.0,Snapple Raspberry Tea,MNT,688.27,120,1/31/2022,0.61,Sherye Wyldes,swyldesjm@canalblog.com,Japan
+,Coconut - Whole,Projector,936.66,303,1/22/2022,0.79,Holly Pugsley,,United States
+709.0,"Turkey - Breast, Double",Cooking,28.67,691,9/20/2022,0.86,Kaine Kenwood,kkenwoodjo@nba.com,Indonesia
+,Jagermeister,Cooking,548.15,663,1/19/2022,0.39,Shaw McLemon,smclemonjp@forbes.com,Indonesia
+711.0,"Flour - Bran, Red",Cooking,483.55,944,1/11/2022,0.53,Amabel Randales,,Nepal
+712.0,Cranberries - Frozen,Caraud,762.61,448,12/12/2022,0.57,Arty Furmonger,afurmongerjr@bloomberg.com,Thailand
+713.0,Spinach - Frozen,Projector,293.59,812,10/2/2022,0.58,Elianore Godspede,,Portugal
+,Devonshire Cream,Projector,523.94,482,3/21/2022,0.6,Arin Feehan,afeehanjt@ucoz.com,Russia
+715.0,"Juice - Apple, 500 Ml",MNT,720.82,590,4/20/2022,0.31,Catha Mariaud,cmariaudju@hhs.gov,El Salvador
+,Water - Evian 355 Ml,Cooking,858.81,928,1/2/2022,0.76,Kynthia Leades,kleadesjv@ifeng.com,Vietnam
+717.0,"Wine - Niagara,vqa Reisling",TV,562.59,141,4/7/2022,0.75,Jule Dows,jdowsjw@thetimes.co.uk,China
+718.0,Apple - Royal Gala,Caraud,59.07,28,5/21/2022,0.58,Sloane Saiger,ssaigerjx@oaic.gov.au,Slovenia
+719.0,Sausage - Blood Pudding,Projector,661.95,842,11/12/2022,0.82,Sherlock Kneel,skneeljy@prlog.org,Vietnam
+,Cake - Mini Cheesecake,TV,832.26,117,3/24/2022,0.75,Eartha O'Scanlan,eoscanlanjz@plala.or.jp,Ivory Coast
+,"Pasta - Shells, Medium, Dry",Projector,306.37,629,7/10/2022,0.4,Audry Fussie,afussiek0@unicef.org,Greece
+,Wine - Fino Tio Pepe Gonzalez,TV,876.33,167,4/14/2022,0.9,Kenyon Murcott,kmurcottk1@nyu.edu,Ireland
+723.0,Sunflower Seed Raw,MNT,795.44,786,11/27/2022,0.43,Tomas Ashpital,tashpitalk2@istockphoto.com,Bulgaria
+724.0,"Beef - Tongue, Fresh",Caraud,433.04,756,1/12/2022,0.37,Roze Jopke,rjopkek3@is.gd,Taiwan
+725.0,Blue Curacao - Marie Brizard,TV,277.26,711,11/8/2022,0.26,Isidora Verner,ivernerk4@chron.com,Panama
+726.0,Daves Island Stinger,TV,201.05,33,9/4/2022,0.54,Danny Benninck,dbenninckk5@nih.gov,Indonesia
+,Rootbeer,TV,184.63,678,10/14/2022,0.34,Belvia Normadell,bnormadellk6@imdb.com,Tunisia
+728.0,Coffee Cup 12oz 5342cd,Caraud,124.13,615,3/10/2022,0.46,Marylynne Doram,mdoramk7@symantec.com,Portugal
+729.0,Bar Nature Valley,TV,919.25,539,1/8/2022,0.54,Clementius Garahan,cgarahank8@upenn.edu,Sweden
+730.0,Tomato - Green,Caraud,731.45,233,7/20/2022,0.51,Goddard Pikesley,gpikesleyk9@dot.gov,Philippines
+731.0,Shrimp - 150 - 250,Projector,639.71,561,10/11/2022,0.29,Normie Ibbott,nibbottka@wunderground.com,China
+732.0,Puff Pastry - Sheets,Cooking,680.99,965,8/11/2022,0.52,Laurene Gaymar,lgaymarkb@ebay.com,Philippines
+733.0,Clam Nectar,Cooking,182.28,457,7/21/2022,0.34,Korney Dennison,kdennisonkc@com.com,Indonesia
+734.0,Bagels Poppyseed,Caraud,219.37,149,9/14/2022,0.33,Ayn Bilovus,abilovuskd@123-reg.co.uk,Bulgaria
+735.0,"Chicken - Diced, Cooked",Caraud,679.72,189,2/21/2022,0.4,Laraine Fumagall,lfumagallke@sitemeter.com,Russia
+736.0,Soup Campbells Turkey Veg.,MNT,681.55,161,7/23/2022,0.75,Jacquetta Heigl,jheiglkf@barnesandnoble.com,China
+,Bread Crumbs - Panko,TV,961.88,503,5/7/2022,0.57,Hart Burmaster,hburmasterkg@weibo.com,Canada
+738.0,"Wine - Red, Lurton Merlot De",Cooking,623.55,831,10/9/2022,0.29,Gates Marr,gmarrkh@cdbaby.com,Canada
+739.0,Garlic - Peeled,Projector,255.18,916,2/27/2022,0.87,Lu Mc Coughan,lmcki@privacy.gov.au,Thailand
+740.0,Muffin Hinge Container 6,Cooking,407.85,168,11/1/2022,0.36,Lita McGonnell,lmcgonnellkj@rambler.ru,China
+741.0,"Pork - Back, Short Cut, Boneless",Cooking,947.02,223,5/7/2022,0.43,Jude Zimek,,Indonesia
+742.0,Sausage - Blood Pudding,Cooking,457.22,122,1/4/2022,0.46,Craig Burndred,cburndredkl@businessinsider.com,Indonesia
+,Pear - Packum,MNT,502.04,236,10/24/2022,0.71,Vera Smallpeace,vsmallpeacekm@last.fm,Philippines
+,,Cooking,472.25,148,4/25/2022,0.8,Matt Fincken,mfinckenkn@sun.com,Philippines
+745.0,,MNT,451.0,718,2/26/2022,0.33,Alexis Koschek,akoschekko@samsung.com,Sweden
+,"Dill - Primerba, Paste",Projector,932.0,235,3/11/2022,0.44,Verla Sallenger,vsallengerkp@ucsd.edu,Brazil
+747.0,Wine - Casillero Deldiablo,Caraud,452.55,198,12/22/2022,0.22,Prue Hawksley,phawksleykq@simplemachines.org,Thailand
+,Jam - Raspberry,TV,61.5,459,7/13/2022,0.22,Marj Cescon,mcesconkr@ustream.tv,Austria
+,Pasta - Agnolotti - Butternut,MNT,234.99,343,3/27/2022,0.41,Cly Rasch,craschks@netvibes.com,Taiwan
+750.0,"Olives - Black, Pitted",MNT,980.28,847,8/18/2022,0.52,Odo Seedull,oseedullkt@ftc.gov,Uganda
+751.0,Grapes - Red,MNT,659.37,95,11/1/2022,0.83,Quentin Nezey,qnezeyku@imgur.com,Indonesia
+,Apple - Fuji,Cooking,227.33,813,11/17/2022,0.26,Kalle Rosenauer,,Bangladesh
+753.0,Petit Baguette,Cooking,27.18,650,5/6/2022,0.42,Flossy Garlette,,Czech Republic
+,Table Cloth 144x90 White,Projector,335.43,783,6/4/2022,0.61,Orbadiah Messier,omessierkx@spotify.com,Afghanistan
+755.0,Veal - Insides Provini,Projector,949.04,524,10/23/2022,0.6,Carolynn Boath,cboathky@cpanel.net,Gambia
+,Jameson - Irish Whiskey,Cooking,82.87,779,11/29/2022,0.52,Frieda Callaghan,fcallaghankz@miibeian.gov.cn,France
+757.0,Red Cod Fillets - 225g,Caraud,439.03,595,2/3/2022,0.8,Karlene Tatam,ktataml0@gov.uk,China
+758.0,Sage Ground Wiberg,Cooking,997.98,729,1/11/2022,0.39,Filmore Ingon,fingonl1@usnews.com,Indonesia
+759.0,"Doilies - 10, Paper",Projector,595.98,863,1/27/2022,0.6,Corina Ebbetts,cebbettsl2@salon.com,Philippines
+760.0,Salmon - Sockeye Raw,Cooking,260.19,861,5/16/2022,0.38,Lurline Stevenson,lstevensonl3@symantec.com,Philippines
+761.0,Lettuce Romaine Chopped,Cooking,144.69,854,10/7/2022,0.25,Simone McAuley,smcauleyl4@cbc.ca,Brazil
+,Mushroom - Portebello,Cooking,846.09,313,3/19/2022,0.46,Sheelagh McAusland,smcauslandl5@unblog.fr,Syria
+763.0,Pants Custom Dry Clean,Cooking,396.95,453,8/9/2022,0.27,Sibylle Hassewell,shassewelll6@imageshack.us,Greenland
+764.0,Gatorade - Orange,TV,591.95,4,6/10/2022,0.37,Carlin Satch,csatchl7@vinaora.com,China
+765.0,Schnappes Peppermint - Walker,Caraud,262.6,494,6/2/2022,0.61,Lorine Hannabuss,lhannabussl8@bandcamp.com,Ecuador
+766.0,,TV,931.55,934,12/21/2022,0.36,Gerrard Picton,gpictonl9@blogs.com,Finland
+,Bread Crumbs - Japanese Style,TV,482.05,91,5/30/2022,0.28,Logan Searsby,lsearsbyla@seesaa.net,Peru
+,"Gin - Gilbeys London, Dry",MNT,660.91,588,4/7/2022,0.21,Ave Zywicki,azywickilb@umich.edu,Poland
+769.0,Phyllo Dough,TV,633.19,894,2/2/2022,0.77,Constantine MacEnelly,cmacenellylc@domainmarket.com,Albania
+770.0,Milk - Condensed,MNT,960.03,412,1/11/2022,0.57,Dari Kearney,dkearneyld@ning.com,Iran
+771.0,,Cooking,878.94,276,11/5/2022,0.25,Nike Scyone,nscyonele@vistaprint.com,Chad
+772.0,"Lamb - Leg, Boneless",Projector,729.37,631,10/8/2022,0.71,Constancia Demcik,cdemciklf@cdc.gov,China
+773.0,"Soup - Canadian Pea, Dry Mix",TV,438.76,783,12/1/2022,0.33,Ced Seneschal,cseneschallg@sun.com,China
+,Wine - Two Oceans Sauvignon,TV,595.04,755,5/18/2022,0.84,Tobye Ridhole,tridholelh@xing.com,Philippines
+775.0,Mousse - Mango,Caraud,252.28,402,5/30/2022,0.61,Donnie Dallas,ddallasli@ovh.net,Sweden
+776.0,"Veal - Leg, Provimi - 50 Lb Max",Projector,901.13,966,10/6/2022,0.83,Jackson Froom,jfroomlj@list-manage.com,Russia
+777.0,"Loaf Pan - 2 Lb, Foil",Caraud,104.32,204,9/25/2022,0.73,Inge Burgh,iburghlk@livejournal.com,Czech Republic
+,Milk 2% 500 Ml,TV,552.64,676,1/23/2022,0.6,Chance Trowel,ctrowelll@google.com.au,China
+779.0,Beef - Shank,Projector,888.45,362,2/14/2022,0.43,Carmen Bambrick,,China
+,Pie Pecan,TV,869.91,184,2/17/2022,0.57,Bobbee Joskowicz,bjoskowiczln@gmpg.org,Gambia
+,,Cooking,953.3,242,6/30/2022,0.29,Granthem Matveiko,gmatveikolo@issuu.com,Indonesia
+782.0,"Lamb - Pieces, Diced",Projector,636.43,895,8/6/2022,0.31,Piotr Cornish,pcornishlp@nifty.com,Portugal
+,Bacardi Mojito,TV,306.53,309,1/13/2022,0.3,Gonzales Stiell,gstielllq@ameblo.jp,Norway
+,"Pasta - Gnocchi, Potato",MNT,625.32,721,3/5/2022,0.65,Franz Markovich,fmarkovichlr@apache.org,Bulgaria
+,"Cheese - Brie, Cups 125g",TV,166.62,14,8/11/2022,0.56,Marta Bromley,mbromleyls@ft.com,Portugal
+786.0,Nantucket Apple Juice,Cooking,185.26,582,4/21/2022,0.44,Giffer Forestall,gforestalllt@abc.net.au,Russia
+787.0,Aromat Spice / Seasoning,Projector,375.01,494,11/17/2022,0.39,Will Lumby,wlumbylu@tripadvisor.com,Japan
+788.0,"Pork - Tenderloin, Fresh",Cooking,16.0,935,5/22/2022,0.57,Lenore Borland,lborlandlv@statcounter.com,China
+789.0,Chevril,Cooking,378.19,401,5/6/2022,0.22,Pepillo Treacher,ptreacherlw@utexas.edu,South Africa
+790.0,"Chilli Paste, Ginger Garlic",Cooking,522.5,981,11/26/2022,0.63,Vergil Niemetz,vniemetzlx@ifeng.com,China
+791.0,,MNT,288.03,881,5/14/2022,0.62,Dare Lowne,dlownely@time.com,France
+792.0,Ginger - Pickled,Cooking,544.39,511,9/29/2022,0.51,Gleda Goford,ggofordlz@netlog.com,Colombia
+793.0,"Shrimp - Baby, Cold Water",Projector,582.23,931,4/14/2022,0.53,Rey Pringell,,China
+794.0,"Ham - Smoked, Bone - In",Cooking,491.13,530,1/3/2022,0.73,Conni Risdale,crisdalem1@ucsd.edu,Portugal
+795.0,Chicken - Base,MNT,281.12,626,5/17/2022,0.69,Bail Leys,bleysm2@rambler.ru,Pakistan
+796.0,Kahlua,MNT,175.77,1,7/17/2022,0.86,Alden Dossit,adossitm3@narod.ru,Poland
+797.0,Ginger - Pickled,TV,83.58,764,2/2/2022,0.84,Camile Coryndon,ccoryndonm4@example.com,Russia
+798.0,Bacon Strip Precooked,MNT,386.24,321,5/27/2022,0.26,Khalil Dudgeon,kdudgeonm5@hc360.com,Czech Republic
+,Gherkin - Sour,Caraud,210.7,936,9/26/2022,0.79,Berny Obern,bobernm6@spiegel.de,Finland
+,Bread - Frozen Basket Variety,TV,849.13,178,11/29/2022,0.46,Corabelle Kevis,,Madagascar
+,Cocoa Powder - Dutched,TV,655.25,669,10/21/2022,0.55,Dominique Dukelow,ddukelowm8@psu.edu,South Korea
+802.0,"Pepper - Chillies, Crushed",Cooking,560.7,958,3/21/2022,0.42,Judon Deeney,jdeeneym9@latimes.com,Indonesia
+,"Tomatoes - Vine Ripe, Yellow",TV,418.66,540,7/30/2022,0.38,Chevalier Levy,clevyma@sakura.ne.jp,Poland
+804.0,Arctic Char - Fillets,Projector,752.17,328,11/3/2022,0.2,Kelcey Dayborne,kdaybornemb@prweb.com,France
+805.0,Muffin Hinge 117n,Caraud,245.63,223,1/26/2022,0.7,Isidora Itzhak,iitzhakmc@theatlantic.com,Czech Republic
+806.0,Garlic - Peeled,TV,707.65,175,1/20/2022,0.39,Bryan Mountstephen,bmountstephenmd@nsw.gov.au,Indonesia
+807.0,Cornflakes,TV,121.22,172,7/16/2022,0.44,Angy Tavinor,,Poland
+808.0,Mushroom - Portebello,TV,706.76,821,3/17/2022,0.73,Clotilda Manon,cmanonmf@china.com.cn,Ukraine
+809.0,Red Pepper Paste,Projector,136.64,779,5/1/2022,0.22,Ellwood Pilley,epilleymg@blinklist.com,France
+810.0,Lotus Root,Projector,530.17,512,12/2/2022,0.89,Redd Chardin,rchardinmh@cafepress.com,Portugal
+811.0,"Water - Mineral, Natural",Cooking,243.25,743,3/22/2022,0.41,Cyndi Heritege,cheritegemi@nih.gov,Somalia
+812.0,Veal - Inside,Caraud,460.64,62,10/21/2022,0.61,Perren Yurlov,pyurlovmj@gizmodo.com,Indonesia
+813.0,Soup - Campbells Broccoli,TV,75.08,83,11/20/2022,0.41,Tod Lehrian,tlehrianmk@google.com.hk,Philippines
+,Pasta - Orecchiette,Cooking,159.09,852,4/6/2022,0.59,Finn Hagard,fhagardml@artisteer.com,Luxembourg
+815.0,"Sparkling Wine - Rose, Freixenet",MNT,961.71,293,1/21/2022,0.6,Vilhelmina Bridgnell,vbridgnellmm@g.co,Russia
+816.0,Cake - Mini Potato Pancake,Cooking,459.78,947,3/18/2022,0.63,Dominique Ivanovic,divanovicmn@privacy.gov.au,Poland
+,Flour - Whole Wheat,MNT,473.16,785,4/9/2022,0.44,Cal Keene,ckeenemo@cbslocal.com,Portugal
+818.0,Syrup - Kahlua Chocolate,MNT,947.1,987,3/18/2022,0.48,Renaud Fantonetti,rfantonettimp@indiegogo.com,Sweden
+,Rabbit - Frozen,Projector,518.29,224,2/1/2022,0.76,Jerry Bleddon,jbleddonmq@europa.eu,Indonesia
+,Galliano,Caraud,172.0,624,3/25/2022,0.43,Brianna Gamwell,bgamwellmr@dot.gov,Sierra Leone
+821.0,Oysters - Smoked,Caraud,653.91,81,2/5/2022,0.72,Cassondra Arkin,carkinms@flavors.me,South Africa
+822.0,Olives - Kalamata,Projector,780.56,286,9/19/2022,0.83,Dorolice Martusov,dmartusovmt@huffingtonpost.com,United States
+823.0,,Cooking,360.41,30,10/17/2022,0.7,Mariele Yaneev,myaneevmu@sbwire.com,Poland
+,"Juice - Tomato, 10 Oz",Projector,368.77,756,6/2/2022,0.65,Joshua Silvermann,jsilvermannmv@dot.gov,China
+,Beans - Wax,Cooking,968.33,848,6/20/2022,0.29,Sigrid Deshorts,,Indonesia
+,"Wine - Magnotta, White",Projector,316.87,445,1/15/2022,0.46,Christiana Levins,clevinsmx@ustream.tv,Thailand
+,Scallops - 20/30,Projector,637.37,551,12/30/2022,0.61,Mercedes Leivers,,Lithuania
+,Lemonade - Pineapple Passion,TV,841.8,170,7/17/2022,0.5,Flossy Tookey,ftookeymz@slate.com,Chad
+829.0,Tomatoes - Cherry,Cooking,216.38,870,3/9/2022,0.78,Bruce Moorcroft,bmoorcroftn0@imageshack.us,Togo
+,"Crab - Claws, 26 - 30",Projector,476.1,251,11/1/2022,0.7,Cheston Hayhow,chayhown1@businessweek.com,Vietnam
+,Energy Drink,MNT,406.88,566,6/24/2022,0.23,Minnaminnie Lynagh,mlynaghn2@studiopress.com,Indonesia
+,Squid - U 5,Cooking,549.83,930,2/5/2022,0.32,Georgetta Badger,,United Arab Emirates
+833.0,"Pork - Bacon, Double Smoked",Projector,607.84,729,7/8/2022,0.8,Kellyann Tuckley,ktuckleyn4@nifty.com,Russia
+834.0,Sansho Powder,TV,439.14,689,6/17/2022,0.9,Emanuele Arnett,earnettn5@so-net.ne.jp,Serbia
+,Bay Leaf Ground,MNT,556.81,967,12/27/2022,0.52,Gayelord Alps,,Angola
+,,TV,374.4,770,5/9/2022,0.88,Bent Kimmerling,bkimmerlingn7@miibeian.gov.cn,Russia
+,Truffle Cups Green,Caraud,114.04,801,6/7/2022,0.44,Lorne Kobus,,Indonesia
+838.0,Buffalo - Tenderloin,Cooking,356.76,183,9/16/2022,0.36,Ulrike Maseres,umaseresn9@uiuc.edu,Ireland
+,Wine - Barbera Alba Doc 2001,Projector,603.78,757,1/29/2022,0.33,Bennie Figures,bfiguresna@tinypic.com,Brazil
+,Bread - Malt,MNT,166.52,838,9/18/2022,0.74,Mina Chaney,mchaneynb@cocolog-nifty.com,New Zealand
+,Veal - Ground,Cooking,796.28,617,11/11/2022,0.64,Nata Kenset,nkensetnc@cnn.com,Panama
+842.0,Appetizer - Seafood Assortment,MNT,737.28,753,7/27/2022,0.6,Kalli Oris,korisnd@surveymonkey.com,China
+,Beef - Top Sirloin - Aaa,Caraud,996.6,685,1/5/2022,0.66,Wandie Watford,wwatfordne@dailymotion.com,China
+844.0,Baking Powder,Cooking,461.27,314,12/9/2022,0.87,Sofia Broxholme,sbroxholmenf@go.com,United States
+,"Cheese - Mozzarella, Buffalo",Projector,608.67,848,12/17/2022,0.21,Ramon Casey,rcaseyng@digg.com,Thailand
+846.0,"Squash - Pattypan, Yellow",Cooking,704.55,230,7/11/2022,0.42,Peggie Nance,pnancenh@howstuffworks.com,China
+,"Salmon - Whole, 4 - 6 Pounds",Caraud,121.6,161,12/5/2022,0.24,Wendeline Tullis,wtullisni@bbc.co.uk,Belarus
+,"Placemat - Scallop, White",Projector,398.52,700,6/8/2022,0.82,De Heijnen,dheijnennj@nationalgeographic.com,Iran
+849.0,Nantuket Peach Orange,MNT,906.04,688,3/29/2022,0.46,Annadiane Gladstone,agladstonenk@ibm.com,Mexico
+850.0,Lamb - Ground,MNT,301.43,421,1/1/2022,0.53,Doralynne Pigden,dpigdennl@sakura.ne.jp,China
+851.0,Soup - Campbells Broccoli,Caraud,225.87,533,12/18/2022,0.6,Tracie Neubigin,,Indonesia
+852.0,"Tomatoes - Diced, Canned",Cooking,283.94,909,12/28/2022,0.29,Tatiania Sneddon,tsneddonnn@discuz.net,North Korea
+853.0,Bagelers - Cinn / Brown,Caraud,551.56,876,8/15/2022,0.23,Seumas Fonteyne,sfonteyneno@psu.edu,United States
+,Pears - Bartlett,MNT,796.6,891,10/12/2022,0.83,Hildagarde Bison,hbisonnp@t-online.de,Argentina
+855.0,Pork - Suckling Pig,MNT,18.69,507,9/28/2022,0.28,Ludovika Pidgeley,lpidgeleynq@freewebs.com,Afghanistan
+,Appetizer - Smoked Salmon / Dill,TV,43.44,752,5/17/2022,0.34,Willyt Gonzalo,wgonzalonr@odnoklassniki.ru,Indonesia
+857.0,White Fish - Filets,Projector,926.19,216,3/24/2022,0.71,Stern Haith,shaithns@newyorker.com,Pakistan
+858.0,Wine - Fino Tio Pepe Gonzalez,Caraud,424.1,982,11/17/2022,0.73,Dionne Rozanski,drozanskint@mashable.com,Portugal
+859.0,Coffee Beans - Chocolate,TV,208.09,401,10/25/2022,0.79,Rebecka Potkins,rpotkinsnu@sourceforge.net,China
+,Myers Planters Punch,Caraud,381.5,409,9/8/2022,0.29,Dwain Seath,dseathnv@deliciousdays.com,Philippines
+,Wine - Pinot Noir Stoneleigh,MNT,970.44,93,12/13/2022,0.87,Temple Bride,tbridenw@china.com.cn,Russia
+,Beer - Blue Light,Cooking,830.86,987,7/30/2022,0.33,Germana Cisson,gcissonnx@fotki.com,South Africa
+,Tomatoes - Roma,TV,266.27,742,7/3/2022,0.43,Clifford Gronav,cgronavny@patch.com,Venezuela
+864.0,"Salmon - Atlantic, Fresh, Whole",Cooking,624.15,758,10/24/2022,0.35,Ozzie Vale,ovalenz@rambler.ru,Ukraine
+865.0,Crush - Cream Soda,MNT,485.5,65,6/28/2022,0.39,Hercules Chatwood,hchatwoodo0@fc2.com,Indonesia
+,Cinnamon Rolls,TV,581.9,116,10/4/2022,0.57,Markos Osborne,mosborneo1@topsy.com,China
+867.0,Juice - Apple 284ml,Caraud,868.63,480,12/28/2022,0.5,Fernandina Paggitt,fpaggitto2@simplemachines.org,Uruguay
+868.0,"Pork - Bacon, Double Smoked",MNT,702.87,721,11/3/2022,0.36,Lucien McCoughan,lmccoughano3@fotki.com,Mexico
+869.0,"Mushroom - Chanterelle, Dry",Caraud,51.75,817,8/23/2022,0.87,Reina Halleybone,rhalleyboneo4@cam.ac.uk,Russia
+,Beer - Upper Canada Lager,Caraud,686.44,254,9/1/2022,0.47,Woody MacCaughen,wmaccaugheno5@yahoo.co.jp,Russia
+871.0,"Mushrooms - Black, Dried",Projector,847.33,290,9/15/2022,0.83,Maximilian Zamora,mzamorao6@kickstarter.com,Indonesia
+,"Corn - Cream, Canned",MNT,291.78,203,3/2/2022,0.5,Kerstin Hise,,Indonesia
+873.0,"Pasta - Linguini, Dry",Cooking,320.25,993,10/29/2022,0.46,Horatius Sidsaff,hsidsaffo8@nydailynews.com,Portugal
+874.0,Versatainer Nc - 9388,TV,346.01,847,7/23/2022,0.39,Constancy Widdison,cwiddisono9@time.com,Russia
+875.0,Galliano,Caraud,968.62,711,2/24/2022,0.88,Fleming Wittrington,fwittringtonoa@nhs.uk,China
+876.0,,MNT,633.84,833,7/9/2022,0.73,Candy Pickthall,cpickthallob@weebly.com,Ireland
+,Compound - Strawberry,TV,508.09,947,9/27/2022,0.59,Caresse Elfitt,,Peru
+878.0,"Turkey - Breast, Double",TV,673.25,433,7/11/2022,0.75,Justen Feyer,jfeyerod@instagram.com,Brazil
+,Bread Ww Cluster,TV,39.72,754,3/26/2022,0.86,Lyn De Miranda,ldeoe@sciencedirect.com,China
+880.0,Oil - Peanut,TV,322.59,411,10/15/2022,0.67,Marnia Ciccoloi,mciccoloiof@github.com,France
+881.0,Sobe - Tropical Energy,MNT,315.59,991,1/30/2022,0.39,Leoine Cheak,lcheakog@over-blog.com,Brazil
+882.0,Icecream Cone - Areo Chocolate,Projector,702.1,875,6/26/2022,0.35,Malcolm Strongman,mstrongmanoh@privacy.gov.au,Russia
+883.0,Potatoes - Parissienne,Caraud,529.38,479,1/9/2022,0.38,Elva Bartoszewicz,ebartoszewiczoi@hhs.gov,France
+,,Projector,510.6,960,5/2/2022,0.77,Reiko Trangmar,rtrangmaroj@etsy.com,Russia
+,Pineapple - Regular,Caraud,952.83,1,8/11/2022,0.52,Federica Binder,fbinderok@engadget.com,Afghanistan
+886.0,General Purpose Trigger,Caraud,746.97,160,9/26/2022,0.63,Eustacia Peare,epeareol@trellian.com,Lithuania
+887.0,Cream - 10%,Projector,47.85,702,9/28/2022,0.83,Damara Ferrand,dferrandom@nytimes.com,Nicaragua
+888.0,Muffin Mix - Oatmeal,Caraud,895.1,268,7/29/2022,0.43,Alva Pryce,apryceon@indiatimes.com,Poland
+,Tomato Puree,Projector,906.81,778,8/20/2022,0.54,Nicolina Nafzger,nnafzgeroo@is.gd,Brazil
+,Soup - Campbells Asian Noodle,Caraud,802.14,300,2/22/2022,0.25,Felike Guidoni,,Ireland
+,Cheese - Brie,MNT,750.86,176,6/30/2022,0.43,Willie Rowlands,wrowlandsoq@dailymail.co.uk,Brazil
+892.0,Chocolate - Sugar Free Semi Choc,TV,924.68,755,3/12/2022,0.65,Burl Todeo,btodeoor@mlb.com,Sweden
+893.0,Tahini Paste,MNT,91.02,924,1/31/2022,0.28,Claudie Burnel,cburnelos@patch.com,China
+,Beef - Eye Of Round,Cooking,891.87,395,2/11/2022,0.86,Payton Mayfield,pmayfieldot@tumblr.com,Colombia
+,Beef - Tenderloin,Projector,547.1,170,4/25/2022,0.3,Deb Holley,dholleyou@ucla.edu,Philippines
+896.0,Rye Special Old,MNT,963.51,305,6/8/2022,0.83,Morton Casarino,mcasarinoov@usatoday.com,Poland
+,Wine - Merlot Vina Carmen,Caraud,556.22,778,10/8/2022,0.82,Cristal Ahmad,cahmadow@newsvine.com,Albania
+898.0,"Doilies - 5, Paper",Caraud,341.88,241,5/12/2022,0.27,Salli Barstowk,sbarstowkox@skyrock.com,Japan
+899.0,Juice - Ocean Spray Kiwi,Cooking,209.0,492,1/3/2022,0.62,Jilleen Hebborne,jhebborneoy@cornell.edu,Portugal
+900.0,Wine - Kwv Chenin Blanc South,TV,451.73,673,7/3/2022,0.39,Kara Vamplus,kvamplusoz@businessinsider.com,Portugal
+,Ham - Virginia,Projector,413.83,6,1/24/2022,0.5,Lettie Cowl,lcowlp0@joomla.org,France
+902.0,Cheese - Montery Jack,TV,898.98,725,12/4/2022,0.45,Sadye Bayle,sbaylep1@issuu.com,Indonesia
+,Cleaner - Lime Away,TV,365.86,503,1/13/2022,0.72,Corny McRannell,cmcrannellp2@cnn.com,Russia
+,,TV,518.86,982,9/10/2022,0.61,Stacie Martinez,,Philippines
+905.0,,Cooking,218.02,600,5/12/2022,0.63,Eugenio Eyckelberg,eeyckelbergp4@japanpost.jp,Indonesia
+906.0,"Tomatoes - Vine Ripe, Red",Cooking,909.47,342,7/19/2022,0.46,Grant Aberdalgy,gaberdalgyp5@amazon.com,Indonesia
+,Oil - Peanut,Projector,794.43,58,8/1/2022,0.6,Marianna Creffield,mcreffieldp6@qq.com,Moldova
+908.0,Sauce Bbq Smokey,Cooking,623.16,254,7/1/2022,0.53,Coral Risdale,crisdalep7@jiathis.com,Indonesia
+909.0,Yams,MNT,823.44,1,4/21/2022,0.24,Henri Greensted,,China
+,Crab Brie In Phyllo,MNT,426.2,728,7/27/2022,0.43,Farah Jozsika,fjozsikap9@jigsy.com,China
+911.0,Lambcasing,TV,564.2,877,5/29/2022,0.69,Wallas Lamberto,wlambertopa@addtoany.com,Honduras
+912.0,Onions - Pearl,Cooking,989.22,713,6/14/2022,0.62,Opaline McGiveen,,Nicaragua
+913.0,Venison - Liver,TV,278.73,697,10/13/2022,0.76,Abie Veevers,aveeverspc@google.ru,China
+,Rye Special Old,TV,321.73,508,9/19/2022,0.7,Bing Proske,bproskepd@drupal.org,China
+,Puree - Strawberry,Cooking,706.14,944,6/13/2022,0.82,Rance Millett,rmillettpe@ning.com,Malaysia
+916.0,Bread Base - Gold Formel,Projector,977.88,63,5/21/2022,0.6,Gerek Lamden,,Argentina
+,Squid - U 5,TV,908.0,310,4/4/2022,0.61,Elmer Gowry,,Mongolia
+918.0,,TV,837.07,161,8/29/2022,0.67,Kristin Canton,kcantonph@arizona.edu,Nigeria
+,"Cheese - Romano, Grated",TV,193.59,487,11/8/2022,0.52,Ryley Fellenor,rfellenorpi@europa.eu,Japan
+,Napkin Colour,Cooking,273.88,800,12/10/2022,0.44,Caralie Gyrgorcewicx,cgyrgorcewicxpj@senate.gov,France
+921.0,Loquat,Projector,120.54,180,8/13/2022,0.71,Brigg Blackburn,bblackburnpk@sciencedirect.com,Indonesia
+922.0,Pepper - Pablano,Projector,151.6,969,4/25/2022,0.42,Pammie Holdforth,pholdforthpl@hibu.com,Philippines
+,Bacardi Limon,Projector,339.79,907,9/7/2022,0.7,Jacquetta Cleverley,jcleverleypm@tinypic.com,Sweden
+,Dry Ice,TV,49.23,808,10/22/2022,0.73,Cindelyn Illiston,cillistonpn@lycos.com,Saudi Arabia
+,Walkers Special Old Whiskey,MNT,104.86,491,4/15/2022,0.33,Alis Brooking,abrookingpo@msn.com,Mongolia
+926.0,,TV,485.26,633,10/28/2022,0.59,Rossy Battelle,rbattellepp@bloomberg.com,Philippines
+927.0,Cheese - Gorgonzola,MNT,610.59,767,5/24/2022,0.31,Malina Leak,,Russia
+,"Juice - Pineapple, 48 Oz",TV,375.14,849,10/24/2022,0.27,Shoshana Mattiello,smattiellopr@tiny.cc,Philippines
+,Water Chestnut - Canned,TV,697.58,665,8/13/2022,0.53,Walsh Scoular,wscoularps@ezinearticles.com,South Africa
+930.0,"Coke - Classic, 355 Ml",Caraud,342.61,593,1/5/2022,0.3,Rozanne Huckell,,China
+931.0,"Soup - Knorr, Country Bean",Cooking,976.52,128,1/8/2022,0.85,Heloise Greenin,hgreeninpu@shutterfly.com,Brazil
+932.0,Creme De Banane - Marie,Cooking,60.6,122,12/10/2022,0.48,Lishe Burdis,lburdispv@oakley.com,Micronesia
+,Egg Patty Fried,TV,66.92,375,3/25/2022,0.84,Brandais Kelleway,bkellewaypw@newyorker.com,China
+934.0,Bread - 10 Grain Parisian,Projector,569.47,217,4/8/2022,0.28,Sydelle O'Keefe,sokeefepx@arizona.edu,Russia
+935.0,Bread - Ciabatta Buns,Cooking,901.19,561,8/22/2022,0.66,Merrie Girodon,mgirodonpy@yolasite.com,China
+,Butter - Pod,MNT,698.49,556,10/20/2022,0.64,Bernete Poulden,bpouldenpz@gizmodo.com,Egypt
+937.0,Ice Cream - Super Sandwich,MNT,251.39,636,8/30/2022,0.57,Ludwig Plom,lplomq0@bing.com,China
+938.0,"7up Diet, 355 Ml",MNT,845.57,852,8/11/2022,0.67,Judie Baudain,jbaudainq1@domainmarket.com,Indonesia
+939.0,Oregano - Fresh,MNT,306.26,996,9/11/2022,0.37,Woody Kline,,Philippines
+,Squid U5 - Thailand,MNT,864.97,977,7/15/2022,0.86,Mareah Cone,mconeq3@msn.com,Yemen
+,Ocean Spray - Kiwi Strawberry,TV,80.16,511,2/3/2022,0.62,Tuesday Jessett,tjessettq4@hhs.gov,Czech Republic
+942.0,"Glass - Wine, Plastic, Clear 5 Oz",MNT,430.2,289,4/1/2022,0.21,Gonzales Weatherall,gweatherallq5@bbc.co.uk,Trinidad and Tobago
+,Crawfish,MNT,542.17,848,8/6/2022,0.57,Bordy Trapp,btrappq6@toplist.cz,Bosnia and Herzegovina
+,Beer - Labatt Blue,TV,579.81,869,7/8/2022,0.26,Murray Scimoni,,Russia
+,Bouq All Italian - Primerba,TV,673.18,942,2/26/2022,0.79,Troy Metzke,tmetzkeq8@hhs.gov,Poland
+946.0,Beef - Rib Eye Aaa,MNT,289.53,870,11/18/2022,0.6,Margareta Loos,mloosq9@state.tx.us,Ukraine
+947.0,"Lamb - Whole, Fresh",Caraud,966.56,466,7/19/2022,0.69,Ania Deyenhardt,adeyenhardtqa@wikispaces.com,Uzbekistan
+,Table Cloth 120 Round White,TV,983.49,313,3/21/2022,0.63,Suzanne Ledur,sledurqb@mit.edu,Portugal
+,Juice - Happy Planet,MNT,118.31,231,1/12/2022,0.3,Gaven Mozzetti,gmozzettiqc@epa.gov,Poland
+950.0,Sesame Seed Black,TV,713.4,780,12/18/2022,0.89,Tuck Tallet,ttalletqd@hao123.com,Philippines
+951.0,Wine - Rubyport,MNT,469.64,179,2/24/2022,0.62,Enoch Vlasenko,evlasenkoqe@whitehouse.gov,China
+952.0,Beer - True North Lager,Caraud,23.94,20,5/7/2022,0.55,Dareen Luby,dlubyqf@shop-pro.jp,United States
+953.0,Flower - Leather Leaf Fern,Projector,285.86,158,11/16/2022,0.63,Krista Vockins,kvockinsqg@naver.com,Russia
+954.0,Sugar - Splenda Sweetener,TV,745.49,473,7/1/2022,0.71,Francis Andreasen,fandreasenqh@china.com.cn,France
+955.0,Veal - Leg,MNT,357.6,32,1/22/2022,0.81,Natividad Matchett,nmatchettqi@ebay.co.uk,Indonesia
+,Sausage - Liver,TV,930.65,133,6/29/2022,0.44,Egan Dominico,edominicoqj@hp.com,France
+,"Beans - Navy, Dry",Projector,803.11,905,3/10/2022,0.55,Carmelina Pude,cpudeqk@bloglovin.com,Brazil
+958.0,Nantuket Peach Orange,MNT,472.89,139,1/18/2022,0.6,Yehudit Forth,yforthql@uiuc.edu,China
+,Table Cloth 62x114 White,Projector,958.52,479,3/5/2022,0.45,Danita Magson,dmagsonqm@businessweek.com,China
+,Oil - Sesame,TV,833.85,475,6/19/2022,0.47,Lexis Duggen,lduggenqn@artisteer.com,Azerbaijan
+,Hot Chocolate - Individual,TV,27.49,822,9/9/2022,0.86,Del Piddocke,,North Korea
+962.0,Wine - Prosecco Valdobiaddene,TV,448.86,751,6/20/2022,0.46,Ilsa Maase,imaaseqp@facebook.com,China
+963.0,Phyllo Dough,Projector,113.4,814,5/23/2022,0.31,Kristoffer Hesbrook,khesbrookqq@soup.io,Russia
+,Seabream Whole Farmed,Caraud,302.21,200,9/20/2022,0.32,Wilone Irnys,wirnysqr@vkontakte.ru,Russia
+965.0,Cookie Dough - Chocolate Chip,TV,351.65,427,1/22/2022,0.2,Vincenty Rodgerson,vrodgersonqs@moonfruit.com,Indonesia
+,"Roe - Lump Fish, Red",TV,77.49,716,4/27/2022,0.44,Ellswerth Becken,ebeckenqt@jiathis.com,Brazil
+967.0,Tarragon - Fresh,TV,411.66,534,1/19/2022,0.22,Tiphani Braxay,tbraxayqu@shop-pro.jp,Czech Republic
+,"Beef - Tenderlion, Center Cut",Projector,978.5,821,7/21/2022,0.52,Elke Bucknill,,China
+969.0,Cranberries - Frozen,Cooking,68.68,801,8/18/2022,0.22,Noreen Boggish,,Indonesia
+,Poppy Seed,Caraud,775.61,190,4/11/2022,0.64,Crystie Bartomeu,cbartomeuqx@globo.com,Portugal
+971.0,Longos - Grilled Veg Sandwiches,MNT,189.6,940,4/24/2022,0.72,Abigael Rome,aromeqy@so-net.ne.jp,Luxembourg
+972.0,Corn - Mini,TV,575.96,487,1/9/2022,0.87,Kala Ramey,krameyqz@technorati.com,China
+,"Zucchini - Mini, Green",Caraud,332.61,252,8/19/2022,0.6,Vite Pachta,vpachtar0@blogs.com,Philippines
+974.0,Wheat - Soft Kernal Of Wheat,TV,421.3,250,9/6/2022,0.26,Lizette Doding,,Ireland
+975.0,"Doilies - 10, Paper",MNT,559.59,708,12/6/2022,0.7,Welby Curm,wcurmr2@arizona.edu,Vietnam
+976.0,Ecolab Digiclean Mild Fm,Projector,728.4,543,3/19/2022,0.65,Timoteo Jakaway,tjakawayr3@answers.com,Finland
+,Cheese - Gorgonzola,Cooking,300.08,509,12/21/2022,0.58,Vivia Nurse,vnurser4@infoseek.co.jp,China
+978.0,,MNT,980.28,946,1/12/2022,0.41,Chase Yeld,cyeldr5@uol.com.br,Nigeria
+,Bandage - Fexible 1x3,Cooking,929.95,445,12/5/2022,0.59,Adelaide Otter,aotterr6@istockphoto.com,China
+,Long Island Ice Tea,Projector,391.58,919,6/13/2022,0.28,Erl Soles,esolesr7@skyrock.com,Venezuela
+,Veal - Liver,Projector,716.38,354,5/26/2022,0.86,Charmane Axon,caxonr8@un.org,Indonesia
+982.0,Pastrami,Caraud,990.07,650,11/15/2022,0.64,Newton Gowen,ngowenr9@ibm.com,Ireland
+983.0,Potatoes - Yukon Gold 5 Oz,Cooking,302.59,718,8/6/2022,0.83,Kimberly Gristwood,kgristwoodra@ocn.ne.jp,France
+984.0,Cherries - Frozen,MNT,294.55,894,10/15/2022,0.87,Caryn Baumber,cbaumberrb@wufoo.com,China
+,Lobster - Live,Cooking,748.58,368,10/19/2022,0.83,Javier Stubbley,jstubbleyrc@4shared.com,Greece
+,Maple Syrup,Caraud,84.88,728,4/12/2022,0.53,Haskel Jordine,hjordinerd@163.com,Russia
+987.0,,Projector,463.3,3,10/3/2022,0.39,Stacie O'Kenny,sokennyre@go.com,Philippines
+988.0,Chinese Foods - Thick Noodles,MNT,745.22,346,1/23/2022,0.56,Courtenay Shucksmith,cshucksmithrf@abc.net.au,Portugal
+989.0,Sesame Seed Black,Projector,610.69,65,2/25/2022,0.81,Bud Rontree,brontreerg@indiegogo.com,Indonesia
+990.0,"Mushroom - Shitake, Fresh",MNT,459.83,476,1/17/2022,0.27,Rex Devall,,China
+,"Soup - Campbells, Classic Chix",Projector,718.71,362,5/19/2022,0.28,Tansy Nani,tnaniri@europa.eu,China
+,Eggplant Oriental,Projector,499.19,209,11/3/2022,0.26,Rutger Cleeton,rcleetonrj@nationalgeographic.com,China
+,Chicken - Whole,MNT,971.91,715,5/21/2022,0.64,Alistair Hedworth,ahedworthrk@goodreads.com,Indonesia
+,Capicola - Hot,Projector,896.16,63,7/28/2022,0.53,Mikkel Jamblin,mjamblinrl@wufoo.com,China
+995.0,Pecan Raisin - Tarts,MNT,789.51,771,12/22/2022,0.63,Reiko Fillgate,rfillgaterm@discuz.net,Sweden
+,Chocolate Bar - Reese Pieces,MNT,82.76,368,4/7/2022,0.33,Kelsi Shepton,ksheptonrn@nifty.com,Uganda
+,Jolt Cola - Electric Blue,Projector,917.79,540,12/19/2022,0.65,Madalyn Sansam,msansamro@sina.com.cn,Indonesia
+998.0,Wine - Semi Dry Riesling Vineland,TV,638.4,600,1/11/2022,0.42,Gearard Hacard,,Canada
+,"Sparkling Wine - Rose, Freixenet",Caraud,978.29,545,11/4/2022,0.26,Kristin Wilsher,,Germany
+,Bag - Regular Kraft 20 Lb,MNT,760.5,578,7/10/2022,0.44,Casper Challace,cchallacerr@skype.com,Brazil
